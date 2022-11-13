@@ -5,6 +5,7 @@ Website official BEM Fakultas Vokasi Universitas Brawijaya
 require:
 1. visual studio/sublime
 2. git (https://git-scm.com/downloads)
+3. composer (https://getcomposer.org/download/)
 
 Step awal git ketika register akun dengan github repo BEMVOKASIUB:
 1. git config --global user.name "FIRST_NAME LAST_NAME" *git config --global user.name "Sefalo AF"
