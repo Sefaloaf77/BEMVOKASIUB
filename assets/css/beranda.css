@@ -20,12 +20,37 @@ body {
     font-weight: 600;
 }
 
-footer .bg-footer {
-    /* background-image: url("../img/bg-bottom.svg"); */
+.btn {
+    border-radius: 30px;
+    padding: 10px 15px;
+}
+
+.btn-light {
+    border-radius: 30px;
+    padding: 10px 15px;
+    box-shadow: 0 0 20px 0 #ffffff;
+}
+
+.btn-light:hover {
+    box-shadow: 0 0 20px 0 #EBC803;
+    background-color: #2F3161;
+    color: white;
+}
+
+.btn-blue {
+    color: white;
+    background-image: linear-gradient(#66C2ED, #2F3161);
+    border: none;
+}
+
+.bg-footer {
+    background-image: url('../img/bg-bottom.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: -222;
+    width: 100%;
+    padding-bottom: 60px;
+    /* z-index: -222; */
 }
 
 footer {
@@ -40,31 +65,38 @@ footer .bem-footer h3 {
 footer .row .halaman {
     line-height: 40px;
 }
+
 footer .row .kabinet {
     line-height: 40px;
 }
-footer .halaman h4{
+
+footer .halaman h4 {
     margin: 5px 0;
 }
-footer .kabinet h4{
+
+footer .kabinet h4 {
     margin: 5px 0;
 }
+
 footer a {
     color: white;
     opacity: 60%;
     text-decoration: none;
     font-weight: 300;
 }
+
 footer a:hover {
     color: #EBC803;
     opacity: 80%;
     text-decoration: none;
     font-weight: 300;
 }
+
 footer .lokasi iframe {
     width: 200;
     height: 200;
 }
+
 ::-webkit-scrollbar {
     width: 12px;
 }
@@ -81,6 +113,203 @@ footer .lokasi iframe {
 ::-webkit-scrollbar-thumb:hover {
     background-color: #EBC803;
 }
+
+.hero {
+    background-image: url('../img/hero.svg');
+    background-position: center;
+    background-position-y: -150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.hero .logo img {
+    border-radius: 50%;
+    background-color: white;
+}
+
+.hero span {
+    color: white;
+    font-weight: 400;
+}
+
+.hero h1 {
+    color: #EBC803;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.hero h2 {
+    color: #2F3161;
+    font-weight: 700;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.comprof {
+    background-image: url('../img/bg-beranda2.svg');
+    background-position: center;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+    margin-top: 100px;
+}
+
+.comprof .logo {
+    width: 120px;
+    margin: 0 auto;
+    height: 120px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.comprof .bergema h1 {
+    color: #2F3161;
+    font-weight: 700;
+}
+
+.comprof .bergema p {
+    color: #2F3161;
+    font-weight: 400;
+}
+
+.comprof .video .video-comprof {
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
+
+.comprof .video p {
+    font-weight: 400;
+    color: #2F3161;
+}
+
+.comprof .bergerak h4 {
+    font-weight: 600;
+}
+
+.pnc {
+    background-image: url('../img/bg-middle.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    /* background-position-x: -200px; */
+    height: 100%;
+}
+
+.pnc .pnc-area {
+    margin-top: 10%;
+}
+
+.title {
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 40px;
+    border: 2px solid white;
+    margin: auto;
+    /* margin-top: 250px; */
+    font-weight: 600;
+    color: #2F3161;
+}
+
+.pnc .slider {
+    margin-top: 2%;
+}
+
+.pnc .container {
+    padding-bottom: 15%;
+}
+
+.pnc .partner .pnc-logo {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    width: 85%;
+    height: fit-content;
+}
+
+.pnc .partner .pnc-name {
+    color: white;
+    background-image: linear-gradient(#66C2ED, #2F3161);
+    border-radius: 20px;
+    padding: 30px;
+    width: 85%;
+}
+
+.podcast .podcast-area {
+    margin-top: 4%;
+}
+
+.splide__slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.splide__slide {
+    opacity: 0.6;
+}
+
+.splide__slide.is-active {
+    opacity: 1;
+}
+
+.galeri .galeri-area {
+    height: 40%;
+    margin-top: 15%;
+}
+
+.galeri .galeri-area h5 {
+    color: #2F3161;
+    margin-top: 2%;
+    font-weight: 600;
+}
+
+.galeri #main-carousel {
+    margin-top: 2%;
+}
+.recap{
+    margin-top: 10%;
+}
+
+.recap .circle {
+    background-color: white;
+    border-radius: 50%;
+    border: 5px solid #EBC803;
+    color: #2F3161;
+    font-weight: 600;
+    font-size: 50px;
+    width: 110px; height: 110px; padding:2% 3%;
+}
+
+.recap .icon {
+    color: white;
+    background-color: #2F3161;
+    padding: 3%;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: relative;
+    top: -30px;
+    left: unset;
+    font-size: 30px;
+}
+.recap .keterangan{
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: 5% 7%;
+    color: #2F3161;
+    font-weight: 400;
+    font-size: 23px;
+    margin-top: -15%;
+}
+
 @media (min-width: 992px) {
     .nav-item .home::after {
         content: "";
@@ -92,8 +321,78 @@ footer .lokasi iframe {
     .navbar-nav li a:hover {
         color: #66C2ED;
     }
-    footer .lokasi iframe{
+
+    footer .lokasi iframe {
         width: 400;
         height: 200;
+    }
+
+    .comprof .video .video-comprof {
+        width: 500px !important;
+        height: 315px !important;
+    }
+}
+
+@media(min-width: 768px) {
+    .hero {
+        background-image: url('../img/hero1.svg');
+        background-position: center;
+        background-position-y: -150px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+    }
+
+    .hero h1 {
+        color: #EBC803;
+        font-weight: 700;
+        font-size: 50px;
+    }
+
+    .hero h2 {
+        color: #2F3161;
+        font-weight: 700;
+        letter-spacing: 3px;
+        font-size: 40px;
+    }
+
+    .comprof .video .video-comprof {
+        width: 400px;
+        height: 215px;
+    }
+
+    .comprof {
+        padding-bottom: 100px;
+    }
+
+    .pnc .partner .pnc-name {
+        color: white;
+        background-image: linear-gradient(#66C2ED, #2F3161);
+        border-radius: 20px;
+        padding: 30px;
+        width: 85%;
+    }
+
+    .pnc .partner .pnc-logo {
+        background-color: white;
+        border-radius: 20px;
+        padding: 20px;
+        width: 85%;
+    }
+    .recap .bg-footer {
+        padding-top: 5%;
+    }
+    .bg-footer {
+        background-image: url('../img/bg-bottom.svg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 60vh;
+        /* z-index: -222; */
+    }
+
+    footer {
+        background-color: #2F3161;
     }
 }
