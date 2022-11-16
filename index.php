@@ -167,16 +167,16 @@
                     <div class="splide__track row">
                         <ul class="splide__list">
                             <li class="splide__slide">
-                                <img src="assets/img/abdes.webp" alt="Abdi Desa">
+                                <img src="assets/img/abdes.webp" alt="Abdi Desa" loading="lazy">
                             </li>
                             <li class="splide__slide">
-                                <img src="assets/img/crea.webp" alt="Creanomic">
+                                <img src="assets/img/crea.webp" alt="Creanomic" loading="lazy">
                             </li>
                             <li class="splide__slide">
-                                <img src="assets/img/yuwa.webp" alt="Yuwaraja">
+                                <img src="assets/img/yuwa.webp" alt="Yuwaraja" loading="lazy">
                             </li>
                             <li class="splide__slide">
-                                <img src="assets/img/comprof.webp">
+                                <img src="assets/img/comprof.webp" loading="lazy">
                             </li>
                         </ul>
                     </div>
@@ -187,16 +187,16 @@
                     <div class="splide__track">
                         <ul class="splide__list">
                             <li class="splide__slide">
-                                <img src="assets/img/abdes.webp" alt="Abdi Desa">
+                                <img src="assets/img/abdes.webp" alt="Abdi Desa" loading="lazy">
                             </li>
                             <li class="splide__slide">
-                                <img src="assets/img/crea.webp" alt="Creanomic">
+                                <img src="assets/img/crea.webp" alt="Creanomic" loading="lazy">
                             </li>
                             <li class="splide__slide">
-                                <img src="assets/img/yuwa.webp" alt="Yuwaraja">
+                                <img src="assets/img/yuwa.webp" alt="Yuwaraja" loading="lazy">
                             </li>
                             <li class="splide__slide">
-                                <img src="assets/img/comprof.webp">
+                                <img src="assets/img/comprof.webp" loading="lazy">
                             </li>
                         </ul>
                     </div>

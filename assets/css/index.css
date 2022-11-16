@@ -43,16 +43,6 @@ body {
     border: none;
 }
 
-.bg-footer {
-    background-image: url('../img/bg-bottom.svg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    padding-bottom: 60px;
-    /* z-index: -222; */
-}
-
 footer {
     background-color: #2F3161;
 }

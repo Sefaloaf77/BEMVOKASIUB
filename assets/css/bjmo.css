@@ -1,0 +1,91 @@
+/* 
+thin = 100
+light = 300
+reguler = 400
+semibold = 600
+bold = 700
+black = 900
+*/
+
+/* font-family: 'Poppins', sans-serif; */
+
+.bg-top img{
+    width: 100%;
+}
+.title {
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 50px;
+    border: 2px solid white;
+    margin: auto;
+    /* margin-top: 250px; */
+    font-weight: 600;
+    color: #2F3161;
+}
+.divisi .nama-divisi img{
+    margin-top: -70px;
+    margin-left: 180px;
+    width: 62px;
+    position: relative;
+}
+
+.divisi .nama-area{
+    background-image: linear-gradient(to left, #66C2ED, #4975A2);
+    border-radius: 0px 0px 30px 30px;
+}
+.divisi .accordion-button{
+    background-image: linear-gradient(to left, #66C2ED, #4975A2);
+    border-radius: 20px 0px 20px 0px;
+    border: 1px solid white !important;
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+}
+.divisi .accordion-body {
+    background-color: #FFFADC;
+    border: 50px 0px 50px 0px !important;
+    margin-top: 20px;
+    padding: 30px 50px;
+}
+
+.staff{
+    background-image: url('../img/bg-middle-divisi.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    /* background-position-x: -200px; */
+    height: 100%;
+}
+.staff .container{
+    padding: 10% 0;
+    height: 100vh;
+}
+.staff .nama-staff{
+    background: rgba(255, 255, 255, 0.286);
+    border: 1px solid white;
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(1px);
+    border-radius: 10px;
+    padding: 30px 50px;
+    font-size: 20px;
+    margin-top: 5%;
+}
+.yuk-kenali h3{
+    color: #2F3161;
+}
+
+@media(min-width: 768px) {
+    .divisi .nama-divisi img {
+        margin-top: -90px;
+        margin-left: 230px;
+        width: 92px;
+        position: relative;
+    }
+
+}
