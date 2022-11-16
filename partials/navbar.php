@@ -17,9 +17,9 @@
                         Kabinet
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Presidan dan Wakil</a></li>
+                        <li><a class="dropdown-item" href="#">Presiden dan Wakil</a></li>
                         <li><a class="dropdown-item" href="#">Menteri Koordinator</a></li>
-                        <li><a class="dropdown-item" href="#">BJMO</a></li>
+                        <li><a class="dropdown-item" href="bjmo.php">BJMO</a></li>
                         <li><a class="dropdown-item" href="#">Biro Administrasi</a></li>
                         <li><a class="dropdown-item" href="#">Biro Keuangan</a></li>
                         <li><a class="dropdown-item" href="#">Biro PUSKOMINFO</a></li>
