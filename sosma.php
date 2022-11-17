@@ -15,18 +15,21 @@
     <section class="divisi">
         <div class="container">
             <div class="text-center nama-divisi d-md-flex align-items-center justify-content-center mx-auto" data-aos="zoom-out">
-                <div class="title-divisi">BJMO</div>
-                <img src="assets/img/ppbjmo.png" alt="BJMO LOGO" class="img-fluid my-md-auto">
+                <div class="title-divisi">Kementerian SOSMA</div>
+                <img src="assets/img/ppsosma.png" alt="SOSMA LOGO" class="img-fluid my-md-auto">
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
                     <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
-                        <span class="fw-bold">Naura Alya Salsabila</span><br>
-                        Kepala BJMO <br>
+                        <span class="fw-bold">Aldenia Luthfian ilma</span><br>
+                        Menteri SOSMA<br>
                         <br>
-                        <span class="fw-bold">Sevi Aditya Nur Prameswari</span><br>
-                        Wakil Kepala BJMO
+                        <span class="fw-bold">Benyamin Logos Samosir</span><br>
+                        Dirjen Pengabdian<br>
+                        <br>
+                        <span class="fw-bold">Dinda Puspa Mustika</span><br>
+                        Dirjen Pendidikan
                     </div>
                 </div>
                 <div class="col-md-6 mt-md-0 mt-5">
@@ -39,14 +42,17 @@
                             </h2>
                             <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
                                 <div class="accordion-body shadow">
-                                    <strong>BJMO</strong><br>
-                                    BJMO adalah Badan Jaminan Mutu Organisasi yang berperan sebagai quality control untuk menjaga stabilitas sistem organisasi dalam hal pengelolaan SDM, mengawasi dan mengevaluasi seluruh kinerja internal serta adanya standarisasi penilaian kinerja SDM dengan tujuan untuk meningkatkan nilai mutu BEM VOKASI UB.
+                                    <strong>Kementerian SOSMA</strong><br>
+                                    Kementerian Sosial Masyarakat (Sosma) bergerak di bidang pelayanan kepada masyarakat dengan berbagai program mulai dari pendidikan, bantuan sosial, pengabdian, sampai responsif terhadap bencana.
                                     <br><br>
                                     <strong>Tupoksi:</strong><br>
                                     <ul>
-                                        <li>Mengontrol dan Memonitoring terhadap seluruh aktifitas kinerja internal di BEM Vokasi.</li>
-                                        <li>Melakukan penilaian terhadap kinerja di BEM</li>
-                                        <li>Mengeluarkan Surat Peringatan terhadap pelanggaran yang terjadi di BEM Vokasi UB sesuai dengan peraturan yang telah disepakati.</li>
+                                        <li>Membangun sinergi dan pergerakan bersama dalam kegiatan sosial kemasyarakatan.
+                                        </li>
+                                        <li>Mendukung Fakultas Vokasi UB mewujudkan tri darma perguruan tinggi yaitu pengabdian. </li>
+                                        <li>Menumbuhkan jiwa sosial serta semangat pengabdian dalam memberikan pelayanan kepada masyarakat. </li>
+                                        <li>Meningkatkan kepekaan dan kepedulian serta penyikapan isu sosial masyarakat.
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -59,12 +65,14 @@
                             </h2>
                             <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingTwo">
                                 <div class="accordion-body shadow bg-white">
-                                    <li>Oprec Staff Ahli</li>
-                                    <li>Oprec Staff Muda</li>
-                                    <li>First Gathering</li>
-                                    <li>Training Organitation</li>
-                                    <li>Awarding Staff</li>
-                                    <li>Farewell Party</li>
+                                    <li>Abdi Desa</li>
+                                    <li>Gentar Vokasi</li>
+                                    <li>Vocational Sharing for Others</li>
+                                    <li>Share Your Bloods</li>
+                                    <li>Environment Health of Sosma</li>
+                                    <li>Vokasi Mengajar</li>
+                                    <li>Jendela Sosma</li>
+                                    <li>Sosma Webinar Series</li>
                                 </div>
                             </div>
                         </div>

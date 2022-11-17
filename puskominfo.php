@@ -15,18 +15,18 @@
     <section class="divisi">
         <div class="container">
             <div class="text-center nama-divisi d-md-flex align-items-center justify-content-center mx-auto" data-aos="zoom-out">
-                <div class="title-divisi">BJMO</div>
-                <img src="assets/img/ppbjmo.png" alt="BJMO LOGO" class="img-fluid my-md-auto">
+                <div class="title-divisi">Biro Puskominfo</div>
+                <img src="assets/img/pppuskom.png" alt="Puskominfo LOGO" class="img-fluid my-md-auto">
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
                     <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
-                        <span class="fw-bold">Naura Alya Salsabila</span><br>
-                        Kepala BJMO <br>
+                        <span class="fw-bold">Sefalo 'Aadila Faruq</span><br>
+                        Kepala Biro Puskominfo <br>
                         <br>
-                        <span class="fw-bold">Sevi Aditya Nur Prameswari</span><br>
-                        Wakil Kepala BJMO
+                        <span class="fw-bold">Moh. Alief Firman Al Banna</span><br>
+                        Wakil Kepala Biro Puskominfo
                     </div>
                 </div>
                 <div class="col-md-6 mt-md-0 mt-5">
@@ -39,14 +39,17 @@
                             </h2>
                             <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
                                 <div class="accordion-body shadow">
-                                    <strong>BJMO</strong><br>
-                                    BJMO adalah Badan Jaminan Mutu Organisasi yang berperan sebagai quality control untuk menjaga stabilitas sistem organisasi dalam hal pengelolaan SDM, mengawasi dan mengevaluasi seluruh kinerja internal serta adanya standarisasi penilaian kinerja SDM dengan tujuan untuk meningkatkan nilai mutu BEM VOKASI UB.
+                                    <strong>Biro Puskominfo</strong><br>
+                                    Biro Puskominfo bertugas untuk menyampaikan informasi mengenai berbagai kegiatan yang ada di Vokasi UB dan sebagai jembatan komunikasi antara BEM dengan masyarakat luas melalui media resmi serta membangun citra positif melalui desain dan dokumentasi.
                                     <br><br>
                                     <strong>Tupoksi:</strong><br>
                                     <ul>
-                                        <li>Mengontrol dan Memonitoring terhadap seluruh aktifitas kinerja internal di BEM Vokasi.</li>
-                                        <li>Melakukan penilaian terhadap kinerja di BEM</li>
-                                        <li>Mengeluarkan Surat Peringatan terhadap pelanggaran yang terjadi di BEM Vokasi UB sesuai dengan peraturan yang telah disepakati.</li>
+                                        <li>Membranding BEM Vokasi UB ke public</li>
+                                        <li>Dokumentasi acara</li>
+                                        <li>Membuat desain kebutuhan acara</li>
+                                        <li>Pembuatan web official BEM Vokasi UB</li>
+                                        <li>Maintenance sosial media (instagram, twitter, spotify, youtube)</li>
+                                        <li>Live report kegiatan ormawa</li>
                                     </ul>
                                 </div>
                             </div>
@@ -59,12 +62,10 @@
                             </h2>
                             <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingTwo">
                                 <div class="accordion-body shadow bg-white">
-                                    <li>Oprec Staff Ahli</li>
-                                    <li>Oprec Staff Muda</li>
-                                    <li>First Gathering</li>
-                                    <li>Training Organitation</li>
-                                    <li>Awarding Staff</li>
-                                    <li>Farewell Party</li>
+                                    <li>Ucapan hari besar</li>
+                                    <li>Video company profile BEM Vokasi</li>
+                                    <li>Buku akhir tahun</li>
+                                    <li>Lanyard dan id card</li>
                                 </div>
                             </div>
                         </div>

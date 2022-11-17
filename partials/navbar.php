@@ -17,18 +17,18 @@
                         Kabinet
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Presiden dan Wakil</a></li>
-                        <li><a class="dropdown-item" href="#">Menteri Koordinator</a></li>
+                        <li><a class="dropdown-item" href="presiden.php">Presiden dan Wakil</a></li>
+                        <li><a class="dropdown-item" href="menko.php">Menteri Koordinator</a></li>
                         <li><a class="dropdown-item" href="bjmo.php">BJMO</a></li>
-                        <li><a class="dropdown-item" href="#">Biro Administrasi</a></li>
-                        <li><a class="dropdown-item" href="#">Biro Keuangan</a></li>
-                        <li><a class="dropdown-item" href="#">Biro PUSKOMINFO</a></li>
-                        <li><a class="dropdown-item" href="#">Kementerian PSDM</a></li>
-                        <li><a class="dropdown-item" href="#">Kementerian PORA</a></li>
-                        <li><a class="dropdown-item" href="#">Kementerian ADVOKESMA</a></li>
-                        <li><a class="dropdown-item" href="#">Kementerian SOSMA</a></li>
-                        <li><a class="dropdown-item" href="#">Kementerian Perhubungan</a></li>
-                        <li><a class="dropdown-item" href="#">Kementerian KASTRAT</a></li>
+                        <li><a class="dropdown-item" href="admin.php">Biro Administrasi</a></li>
+                        <li><a class="dropdown-item" href="keuangan.php">Biro Keuangan</a></li>
+                        <li><a class="dropdown-item" href="puskominfo.php">Biro PUSKOMINFO</a></li>
+                        <li><a class="dropdown-item" href="psdm.php">Kementerian PSDM</a></li>
+                        <li><a class="dropdown-item" href="pora.php">Kementerian PORA</a></li>
+                        <li><a class="dropdown-item" href="advokesma.php">Kementerian ADVOKESMA</a></li>
+                        <li><a class="dropdown-item" href="sosma.php">Kementerian SOSMA</a></li>
+                        <li><a class="dropdown-item" href="perhubungan.php">Kementerian Perhubungan</a></li>
+                        <li><a class="dropdown-item" href="kastrat.php">Kementerian KASTRAT</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

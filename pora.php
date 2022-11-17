@@ -15,18 +15,21 @@
     <section class="divisi">
         <div class="container">
             <div class="text-center nama-divisi d-md-flex align-items-center justify-content-center mx-auto" data-aos="zoom-out">
-                <div class="title-divisi">BJMO</div>
-                <img src="assets/img/ppbjmo.png" alt="BJMO LOGO" class="img-fluid my-md-auto">
+                <div class="title-divisi">Kementerian PORA</div>
+                <img src="assets/img/pppora.png" alt="PORA LOGO" class="img-fluid my-md-auto">
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
                     <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
-                        <span class="fw-bold">Naura Alya Salsabila</span><br>
-                        Kepala BJMO <br>
+                        <span class="fw-bold">Muhammad Dilan </span><br>
+                        Menteri PORA<br>
                         <br>
-                        <span class="fw-bold">Sevi Aditya Nur Prameswari</span><br>
-                        Wakil Kepala BJMO
+                        <span class="fw-bold">Arinda Putri Prameswari</span><br>
+                        Dirjen Keilmuan <br>
+                        <br>
+                        <span class="fw-bold">Elang Satria Perkasa</span><br>
+                        Dirjen Minat & Bakat
                     </div>
                 </div>
                 <div class="col-md-6 mt-md-0 mt-5">
@@ -39,14 +42,19 @@
                             </h2>
                             <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
                                 <div class="accordion-body shadow">
-                                    <strong>BJMO</strong><br>
-                                    BJMO adalah Badan Jaminan Mutu Organisasi yang berperan sebagai quality control untuk menjaga stabilitas sistem organisasi dalam hal pengelolaan SDM, mengawasi dan mengevaluasi seluruh kinerja internal serta adanya standarisasi penilaian kinerja SDM dengan tujuan untuk meningkatkan nilai mutu BEM VOKASI UB.
+                                    <strong>Kementerian PORA</strong><br>
+                                    Kementerian yang bertanggung jawab sebagai fasilitator dalam mengkoordinir semua kegiatan yang berhubungan dengan minat bakat di bidang olahraga, keilmuan, kewirausahaan dan seni mahasiswa aktif di Vokasi UB. Kementerian pora mendampingi dan menaungi 6 komunitas yang ada di Vokasi UB, serta menjadi jembatan dalam membangun kualitas pemuda yang lebih baik.
                                     <br><br>
                                     <strong>Tupoksi:</strong><br>
                                     <ul>
-                                        <li>Mengontrol dan Memonitoring terhadap seluruh aktifitas kinerja internal di BEM Vokasi.</li>
-                                        <li>Melakukan penilaian terhadap kinerja di BEM</li>
-                                        <li>Mengeluarkan Surat Peringatan terhadap pelanggaran yang terjadi di BEM Vokasi UB sesuai dengan peraturan yang telah disepakati.</li>
+                                        <li>Menjadi Jembatan dan eksekutor bentuk aspirasi mahasiswa di bidang
+                                            kepemudaan dan olahraga, dituangkan dalam bentuk kegiatan yang mengimplementasikan aspirasi tersebut.
+                                        </li>
+                                        <li>Menjaring dan mendapingi mahasiswa Vokasi UB untuk ikut serta dalam kegiatan perlombaan.</li>
+                                        <li>Mengadakan kegiatan yang bermanfaat dan membangun semangat pemuda.</li>
+                                        <li>Menjalin Koordinasi dengan setiap himpunan yang berkaitan dengan minat bakat dan unit kegiatan mahasiswa/komunitas yang ada di lingkungan vokasi ub.</li>
+                                        <li>Memantik Kemandirian, Kreativitas dan inovasi mahasiswa dalam bidang keilmuan
+                                            dan kewirausahan.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -59,12 +67,16 @@
                             </h2>
                             <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingTwo">
                                 <div class="accordion-body shadow bg-white">
-                                    <li>Oprec Staff Ahli</li>
-                                    <li>Oprec Staff Muda</li>
-                                    <li>First Gathering</li>
-                                    <li>Training Organitation</li>
-                                    <li>Awarding Staff</li>
-                                    <li>Farewell Party</li>
+                                    <li>Mawapres</li>
+                                    <li>Seminar Kewirausahaan</li>
+                                    <li>Lingkar Komunitas</li>
+                                    <li>Lingkar Minat dan Bakat</li>
+                                    <li>Vokasi Berprestasi</li>
+                                    <li>Selow (Seputar Lomba)</li>
+                                    <li>Oprasi (Obrolan Pora Asik)</li>
+                                    <li>Olivia (Olimpiade Vokasi Indonesia)</li>
+                                    <li>VITION</li>
+                                    <li>VOKSGAR</li>
                                 </div>
                             </div>
                         </div>

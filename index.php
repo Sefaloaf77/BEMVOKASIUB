@@ -56,6 +56,7 @@
                     <h4>Yuk cari tahu!</h4>
                     <a href="tentang.php" class="btn btn-blue d-block my-3">Filosofi Logo</a>
                     <a href="kabinet.php" class="btn btn-blue d-block my-3">Struktur Kabinet</a>
+                    <a href="#" class="btn btn-blue d-block my-3">Buku Akhir Tahun</a>
                 </div>
                 <div class="col-md-6 col-lg-6 col-12 text-center mt-4 mt-md-0 video" data-aos="zoom-out-left">
                     <iframe class="video-comprof shadow" src="https://www.youtube.com/embed/up0BW9z0gpI" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

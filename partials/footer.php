@@ -20,6 +20,7 @@
                 <div class="row">
                     <h4 class="text-white">Kabinet</h4>
                     <div class="col-md-6 col-lg-6 d-grid">
+                        <a href="presiden.php">Presiden & Wakil</a>
                         <a href="bjmo.php">BJMO</a>
                         <a href="admin.php">Administrasi</a>
                         <a href="keuangan.php">Keuangan</a>
@@ -27,10 +28,11 @@
                         <a href="psdm.php">PSDM</a>
                     </div>
                     <div class="col-md-6 col-lg-6 d-grid">
+                        <a href="menko.php">MENKO</a>
                         <a href="pora.php">PORA</a>
-                        <a href="advo.php">ADVOKESMA</a>
+                        <a href="advokesma.php">ADVOKESMA</a>
                         <a href="sosma.php">SOSMA</a>
-                        <a href="perhub.php">Perhubungan</a>
+                        <a href="perhubungan.php">Perhubungan</a>
                         <a href="kastrat.php">KASTRAT</a>
                     </div>
                 </div>
@@ -55,6 +57,7 @@
     AOS.init({
         once: true,
         duration: 1000,
+        throttleDelay: 99,
     });
 </script>
 

@@ -15,18 +15,21 @@
     <section class="divisi">
         <div class="container">
             <div class="text-center nama-divisi d-md-flex align-items-center justify-content-center mx-auto" data-aos="zoom-out">
-                <div class="title-divisi">BJMO</div>
-                <img src="assets/img/ppbjmo.png" alt="BJMO LOGO" class="img-fluid my-md-auto">
+                <div class="title-divisi">Kementerian Perhubungan</div>
+                <img src="assets/img/ppperhub.png" alt="Perhubungan LOGO" class="img-fluid my-md-auto">
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
                     <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
-                        <span class="fw-bold">Naura Alya Salsabila</span><br>
-                        Kepala BJMO <br>
+                        <span class="fw-bold">Dewi Meiliana Budi Prasetyo Rini</span><br>
+                        Menteri Perhubungan<br>
                         <br>
-                        <span class="fw-bold">Sevi Aditya Nur Prameswari</span><br>
-                        Wakil Kepala BJMO
+                        <span class="fw-bold">Ervian Maulana Hasan</span><br>
+                        Dirjen Luar Negeri <br>
+                        <br>
+                        <span class="fw-bold">Tirana Devi Syahrani</span><br>
+                        Dirjen Dalam Negeri
                     </div>
                 </div>
                 <div class="col-md-6 mt-md-0 mt-5">
@@ -39,14 +42,14 @@
                             </h2>
                             <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
                                 <div class="accordion-body shadow">
-                                    <strong>BJMO</strong><br>
-                                    BJMO adalah Badan Jaminan Mutu Organisasi yang berperan sebagai quality control untuk menjaga stabilitas sistem organisasi dalam hal pengelolaan SDM, mengawasi dan mengevaluasi seluruh kinerja internal serta adanya standarisasi penilaian kinerja SDM dengan tujuan untuk meningkatkan nilai mutu BEM VOKASI UB.
+                                    <strong>Kementerian Perhubungan</strong><br>
+                                    Kementerian Perhubungan merupakan garda terdepan BEM Fakultas Vokasi Universitas Brawijaya dalam menjalin, menghubungkan, dan mempererat relasi terhadap pihak internal maupun eksternal agar tercipta kesinergisan dan keharmonisan.
                                     <br><br>
                                     <strong>Tupoksi:</strong><br>
                                     <ul>
-                                        <li>Mengontrol dan Memonitoring terhadap seluruh aktifitas kinerja internal di BEM Vokasi.</li>
-                                        <li>Melakukan penilaian terhadap kinerja di BEM</li>
-                                        <li>Mengeluarkan Surat Peringatan terhadap pelanggaran yang terjadi di BEM Vokasi UB sesuai dengan peraturan yang telah disepakati.</li>
+                                        <li>Kementerian perhubungan dalam negeri yang berfokus untuk menjadi penghubung relasi antara BEM Vokasi UB dengan pihak internal Fakultas Vokasi
+                                        </li>
+                                        <li>Kementerian Perhubungan luar negeri yang berfokus untuk menghubungkan relasi antara BEM Vokasi UB dengan pihak eksternal.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -59,12 +62,21 @@
                             </h2>
                             <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingTwo">
                                 <div class="accordion-body shadow bg-white">
-                                    <li>Oprec Staff Ahli</li>
-                                    <li>Oprec Staff Muda</li>
-                                    <li>First Gathering</li>
-                                    <li>Training Organitation</li>
-                                    <li>Awarding Staff</li>
-                                    <li>Farewell Party</li>
+                                    <li>CREANOMIC</li>
+                                    <li>AVIATION</li>
+                                    <li>Lingkar Himpunan</li>
+                                    <li>Vokasi Partnership</li>
+                                    <li>Podcast Perhub Santai (POPS)</li>
+                                    <li>Maintenance and Development (MnD)</li>
+                                    <li>Dedikarya Vokasi</li>
+                                    <li>Ormawa of the Month</li>
+                                    <li>VINTELS (Visit Internal Eksternal)</li>
+                                    <li>Lingkar Perhubungan</li>
+                                    <li>Media Partner</li>
+                                    <li>Partner and Collaboration</li>
+                                    <li>IKA Vokasi UB</li>
+                                    <li>IKMVI</li>
+                                    <li>Special Day Alert</li>
                                 </div>
                             </div>
                         </div>

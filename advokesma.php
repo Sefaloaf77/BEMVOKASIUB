@@ -15,18 +15,18 @@
     <section class="divisi">
         <div class="container">
             <div class="text-center nama-divisi d-md-flex align-items-center justify-content-center mx-auto" data-aos="zoom-out">
-                <div class="title-divisi">BJMO</div>
-                <img src="assets/img/ppbjmo.png" alt="BJMO LOGO" class="img-fluid my-md-auto">
+                <div class="title-divisi">Kementerian ADVOKESMA</div>
+                <img src="assets/img/ppadvo.png" alt="ADVOKESMA LOGO" class="img-fluid my-md-auto">
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
                     <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
-                        <span class="fw-bold">Naura Alya Salsabila</span><br>
-                        Kepala BJMO <br>
+                        <span class="fw-bold">Arneta Silvia Ananda</span><br>
+                        Menteri ADVOKESMA<br>
                         <br>
-                        <span class="fw-bold">Sevi Aditya Nur Prameswari</span><br>
-                        Wakil Kepala BJMO
+                        <span class="fw-bold">Odilia Ika Puti</span><br>
+                        Wakil Menteri ADVOKESMA
                     </div>
                 </div>
                 <div class="col-md-6 mt-md-0 mt-5">
@@ -39,14 +39,14 @@
                             </h2>
                             <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
                                 <div class="accordion-body shadow">
-                                    <strong>BJMO</strong><br>
-                                    BJMO adalah Badan Jaminan Mutu Organisasi yang berperan sebagai quality control untuk menjaga stabilitas sistem organisasi dalam hal pengelolaan SDM, mengawasi dan mengevaluasi seluruh kinerja internal serta adanya standarisasi penilaian kinerja SDM dengan tujuan untuk meningkatkan nilai mutu BEM VOKASI UB.
+                                    <strong>Kementerian ADVOKESMA</strong><br>
+                                    Kementrian Advokesma adalah kementerian yang bergerak di bidang advokasi dan memberikan pelayanan guna meningkatkan kesejahteraan mahasiswa, tidak hanya itu saja kementrian advokesma juga membantu dalam mewadahi setiap aspirasi maupun kebutuhan terkait informasi kuliah dari setiap mahasiswa.
                                     <br><br>
                                     <strong>Tupoksi:</strong><br>
                                     <ul>
-                                        <li>Mengontrol dan Memonitoring terhadap seluruh aktifitas kinerja internal di BEM Vokasi.</li>
-                                        <li>Melakukan penilaian terhadap kinerja di BEM</li>
-                                        <li>Mengeluarkan Surat Peringatan terhadap pelanggaran yang terjadi di BEM Vokasi UB sesuai dengan peraturan yang telah disepakati.</li>
+                                        <li>Mewadahi aspirasi serta keluhan mahasiswa.</li>
+                                        <li>memberikan pelayanan kepada mahasiswa</li>
+                                        <li>meningkatkan kesejahteraan mahasiswa itu sendiri.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -59,12 +59,18 @@
                             </h2>
                             <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingTwo">
                                 <div class="accordion-body shadow bg-white">
-                                    <li>Oprec Staff Ahli</li>
-                                    <li>Oprec Staff Muda</li>
-                                    <li>First Gathering</li>
-                                    <li>Training Organitation</li>
-                                    <li>Awarding Staff</li>
-                                    <li>Farewell Party</li>
+                                    <li>Career Info Pack</li>
+                                    <li>Scholarship Info Pack</li>
+                                    <li>Advokesma Update</li>
+                                    <li>Liburan (Laman Informasi Buat Akhir Pekan)</li>
+                                    <li>Majalah Advo</li>
+                                    <li>Crisis Center</li>
+                                    <li>SAPA MABA</li>
+                                    <li>BYS (Be Yourself)</li>
+                                    <li>BKV (Beasiswa Keluarga Vokasi)</li>
+                                    <li>Advokesma Care</li>
+                                    <li>Lingkar Advo</li>
+                                    <li>Bincang Millenial</li>
                                 </div>
                             </div>
                         </div>
