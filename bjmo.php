@@ -14,13 +14,13 @@
 
     <section class="divisi">
         <div class="container">
-            <div class="text-center nama-divisi" >
+            <div class="text-center nama-divisi">
                 <h1 class="title">BJMO</h1>
                 <img src="assets/img/ppbjmo.png" alt="BJMO LOGO" class="img-fluid">
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
-                    <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid">
+                    <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
                         <span class="fw-bold">Naura Alya Salsabila</span><br>
                         Kepala BJMO <br>
@@ -81,7 +81,7 @@
                 <h1 class="title">Staff</h1>
             </div>
             <div class="row text-center justify-content-center">
-                <div class="col-11 nama-staff">
+                <div class="col-11 nama-staff" data-aos="zoom-in-up">
                     nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
                 </div>
             </div>
@@ -92,7 +92,7 @@
         <div class="container">
             <div class="text-center">
                 <h3><strong>Yuk kenali lebih lanjut!</strong></h3>
-                <a href="https://www.youtube.com/watch?v=up0BW9z0gpI&t=12s" class="btn btn-blue mt-3"><i class="fa-brands fa-youtube"></i>  Company Profile</a>
+                <a href="https://www.youtube.com/watch?v=up0BW9z0gpI&t=12s" class="btn btn-blue mt-3"><i class="fa-brands fa-youtube"></i> Company Profile</a>
             </div>
         </div>
     </section>
