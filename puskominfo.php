@@ -83,7 +83,20 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Alya' Firdaus -
+                    Melinda Susanto -
+                    Rohmat Cahyo Bintang Prayogo -
+                    Jesica Bella Wulandari -
+                    Allif Nurfaizzatul Uula -
+                    Rini Wulandari -
+                    Ananda Alifa Aulia Istighfary -
+                    Aliya Maritza Maheswari P -
+                    Kharisma Haru Putra Tirta -
+                    Rachel Rezky Gabriel -
+                    Afif Lauhil Mahfudz -
+                    Muhammad Faiz Al Ihsan -
+                    Franciscus C -
+                    Aulia Putri
                 </div>
             </div>
         </div>

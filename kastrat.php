@@ -85,7 +85,21 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Nabilah Ade Irma Gustin Handayani -
+                    Mahsa Kusuma Hapsari -
+                    Anna An Nisaa Rahmawati -
+                    Muhammad Daffa Ashilla Ali -
+                    Bayu Rizqi Fachreza Ramadhan -
+                    Nabhan Lihadillah Daiman -
+                    Lalu Kassatria Mahendra Loka -
+                    Muhammad Dzaky -
+                    Nela Zulfa Az -
+                    Leny Sofiyani -
+                    Fatimah Azahroh -
+                    Nadira Rasya Prasetya -
+                    Defi Shafira -
+                    Dewi Savitri -
+                    Ika Marelin Siregar
                 </div>
             </div>
         </div>

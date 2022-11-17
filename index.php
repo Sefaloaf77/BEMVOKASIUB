@@ -31,10 +31,10 @@
                     <h1>BEM Fakultas Vokasi</h1>
                     <h2>Universitas Brawijaya</h2>
                     <span>Kabinet Saskara Gama</span><br><br>
-                    <a href="#" class="btn btn-light" data-aos="fade-right">Jelajah Sekarang</a>
+                    <a href="#comprof" class="btn btn-light" data-aos="fade-right">Jelajah Sekarang</a>
                 </div>
                 <div class="col-md-6 col-lg-6 col-12 gambar mt-5 mt-md-0 mt-lg-0" data-aos="fade-left">
-                    <img src="assets/img/pres-wapres.webp" class="img-fluid" loading="lazy" alt="pres-wapres">
+                    <img src="assets/img/pres-wapres.webp" class="img-fluid" loading="lazy" alt="pres-wapres" data-tilt>
                 </div>
             </div>
         </div>
@@ -42,7 +42,7 @@
     <!-- hero -->
 
     <!-- comprof -->
-    <section class="comprof mb-5 mb-md-0">
+    <section class="comprof mb-5 mb-md-0" id="comprof">
         <div class="container">
             <div class="text-center bergema mb-5" data-aos="fade-up">
                 <div class="logo shadow p-4 my-4">
@@ -58,7 +58,7 @@
                     <a href="kabinet.php" class="btn btn-blue d-block my-3">Struktur Kabinet</a>
                     <a href="#" class="btn btn-blue d-block my-3">Buku Akhir Tahun</a>
                 </div>
-                <div class="col-md-6 col-lg-6 col-12 text-center mt-4 mt-md-0 video" data-aos="zoom-out-left">
+                <div class="col-md-6 col-lg-6 col-12 text-center mt-4 mt-md-0 video" data-aos="fade-down-right">
                     <iframe class="video-comprof shadow" src="https://www.youtube.com/embed/up0BW9z0gpI" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <p>Video Company Profile</p>
                 </div>
@@ -360,6 +360,8 @@
     </script>
     <!-- counter  -->
 
+    <!-- 3d tilt -->
+    <script type="text/javascript" src="assets/js/vanilla-tilt.min.js"></script>
 </body>
 
 </html>

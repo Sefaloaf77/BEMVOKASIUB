@@ -90,7 +90,31 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Deiryl Ekaputri Ariyadi -
+                    Syahla Levina Chairul Putri -
+                    Tasya Rizka Rahmania -
+                    Arifah Dona -
+                    Verona Tristan Jeannyva Hendarsin -
+                    Andita Mardiyana Putri -
+                    Hilda Imeldiana Farera -
+                    Rahma Aulia Priandini -
+                    Anisa Nur Fitriyanti -
+                    Elgo Mulyanus Riahdo Saragih -
+                    Nadhila Oktafiani -
+                    Muhammad Yusuf Dwi Ardiansyah -
+                    Muhammad Yusuf Fauzan -
+                    Firza Priyodiharjo -
+                    Nur Halimatus Sa'diyah -
+                    Selfi Yana -
+                    Adika Phalosa Adinata -
+                    Andrian Menardi -
+                    Mohamad Prama -
+                    Trianugrah -
+                    Muhammad Irkhas Riyan -
+                    Hanameyta Sitepu -
+                    Chentza Maulana -
+                    Adji -
+                    Naufal Ammar
                 </div>
             </div>
         </div>

@@ -83,7 +83,23 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Aisha Ainun Nafis -
+                    Aulia Nurmaulidia -
+                    Faizah ats tsaniyah -
+                    Fanisa Auliyah Salsabila -
+                    Kartika Putri Amalia -
+                    Haikal Lentera Indonesia -
+                    Putri Moelinda Fitriani -
+                    Shyafaizza Mayang Gayatri -
+                    Yuwan Tsurayya -
+                    M Fikri Faisal -
+                    Rosa Elly Riyanto -
+                    Rifda Fadia Haya -
+                    Vriesca Putri A -
+                    Zunnurainy -
+                    Muhammad Kevin -
+                    Muhammad Dani -
+                    Fazila Azizah
                 </div>
             </div>
         </div>

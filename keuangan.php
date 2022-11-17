@@ -78,7 +78,20 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Berliana Monika Mayangsari -
+                    Diah Evita Sari -
+                    Shangrila Imas Kaputri -
+                    Angelica Dea Fanny Damanik -
+                    Halfa Nurfauziyah Islamiyah Putri -
+                    Fanny Anindya Eka Putri Effendy -
+                    Eka Bayun Larasati -
+                    Hasnaul Afina -
+                    Anugrah Senja Puspita Kirana -
+                    Ignatia Intan Simarmata -
+                    Eurika Efrilia Rotua -
+                    Hilderia Febrilyoez Sinaga -
+                    Risfani -
+                    Muhammad Syauqi Rais
                 </div>
             </div>
         </div>

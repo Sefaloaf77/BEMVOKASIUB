@@ -82,7 +82,21 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Kinanthi Luhuring P -
+                    Mochamad Rafly N H -
+                    Nafila Isabela -
+                    Syahnanda Aurra Nadya S -
+                    Ivana Angie Elianora -
+                    Ananda Alyn Fatika Rani -
+                    Willing Sinwa Sakura -
+                    Nadila Salsabillah Pundika P -
+                    Jihad Fisabillah Maulid M -
+                    Faza Mari'Rana Musyari -
+                    Akbar Gihfari -
+                    Rayyan Ashadin Abjar -
+                    Hafidz Aulia Putra Amanda -
+                    Argya Wira Artheswara Hardie -
+                    Inayah Umayrah
                 </div>
             </div>
         </div>

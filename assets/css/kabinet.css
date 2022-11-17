@@ -96,6 +96,7 @@ black = 900
     padding: 30px 50px;
     font-size: 20px;
     margin-top: 5%;
+    text-transform: capitalize;
 }
 .yuk-kenali h3{
     color: #2F3161;

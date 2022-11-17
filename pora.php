@@ -94,7 +94,29 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Dian Puspita Dewi -
+                    Ahdan Zeeda Prasetya -
+                    Victo Jonathan Situmeang -
+                    Egy Khaira Althafy -
+                    Farisa Alya Hadyani -
+                    Raditya faadihilah a.n -
+                    Rizkya Ayu Dwi Andini -
+                    Raihan Kareszky -
+                    Yosa dewanito -
+                    Zaskiah Noor Devalia Azahra -
+                    Sherina -
+                    Amelia Tri Prismatiwi -
+                    William Lorenza Datu -
+                    Muhammad Naufal Nurfalah -
+                    Bidasari Adelya N -
+                    I Gede eka Samdiyana Putra -
+                    Ammar Muhammad Dihya -
+                    Melinda Dini Zanata Dharma -
+                    Irawan Aji Pangestu -
+                    Syafira Salsabila Ramadhani -
+                    Fitri Zahra Andika -
+                    Nadia Safitri -
+                    Indira salsabilla putri pramesti
                 </div>
             </div>
         </div>

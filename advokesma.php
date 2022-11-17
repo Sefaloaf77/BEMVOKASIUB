@@ -88,7 +88,20 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Alya Nafisa Nur Lailiya -
+                    Khaerunnisa Istikhfarin Rohmanila -
+                    Dinda Rahma Aulia -
+                    Hana Eliana -
+                    Sakinah Barmim -
+                    Robert Adintha Tarigan -
+                    Hafizan Shadiqi -
+                    Nur Laili Indah Fuji Lestari -
+                    Krisna Afiananta -
+                    Wulan Ratu Wawosangia - 
+                    Puti Fitrani - 
+                    Haysal Anggita - 
+                    Priska Wihita - 
+                    Nila Dwi Puspita - 
                 </div>
             </div>
         </div>

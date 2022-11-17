@@ -94,7 +94,24 @@
             </div>
             <div class="row text-center justify-content-center">
                 <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
+                    Toyar Vahir -
+                    Iwan Fahmi Al Rasyid -
+                    Putri Najwa El Lina -
+                    Kaisar Yulian Al Akbar -
+                    Salma Apriliana Saraswati -
+                    Shafira Nada Izza -
+                    Muhammad Dio Rahman -
+                    Galang Fitrah Ramadhan -
+                    Muhammad Zidane -
+                    Saskia Desy Maharani -
+                    Putricia Dias Micella -
+                    Susilawati Dewi - 
+                    Auliaun Najwa - 
+                    Fajria Putri Fasya - 
+                    Dhika Setya Rusmana - 
+                    Arhakim Hisyam Rachmansyah Putra - 
+                    Toby Astor Van Tri Nov Sianturi - 
+                    Ampuh Joyonegoro
                 </div>
             </div>
         </div>

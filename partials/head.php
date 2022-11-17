@@ -26,8 +26,12 @@
 
     <!-- aos animation -->
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-    
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon.ico" />
+
     <link rel="stylesheet" href="../assets/css/index.css">
+
 
     <title>BEM FV UB | Saskara Gama</title>
 </head>
