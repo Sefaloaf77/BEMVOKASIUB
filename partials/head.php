@@ -31,6 +31,7 @@
     <link rel="shortcut icon" href="favicon.ico" />
 
     <link rel="stylesheet" href="../assets/css/index.css">
+    <link rel="stylesheet" href="../assets/css/partials.css">
 
 
     <title>BEM FV UB | Saskara Gama</title>
