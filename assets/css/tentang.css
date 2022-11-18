@@ -1,0 +1,59 @@
+.fil-logo{
+    width: max-content;
+    padding: 10px 30px;
+    /* border: 2px solid #2F3161; */
+    box-shadow: 0px 4px 7px grey;
+    border-radius: 50px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.title-logo{
+    color: #2F3161;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.logo-bem{
+    width: 300px;
+    margin: auto;
+}
+
+.logo-bem img{
+    height: 350px;
+}
+
+.fil-bentuk{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400px;
+    color: #2F3161;
+}
+
+
+.tombol a button{
+    width: 144px;
+    height: 144px;
+    padding: 10px;
+    border: 1px solid #A17A06;
+    /* background-color: #FFFADC; */
+    border-radius: 20px;
+    
+}
+
+.fil-desc-logo{
+    width: 1100px;
+    border: 1px solid #A17A06;
+    border-radius: 20px;
+    margin: 20px 0px;
+    background-color: #FFFADC;
+}
+
+.fil-img{
+    padding: 30px;
+    width: 175px;
+    float: left;
+    /* position: absolute; */
+}
+
+
+
