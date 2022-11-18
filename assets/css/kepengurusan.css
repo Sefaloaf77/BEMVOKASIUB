@@ -148,7 +148,7 @@ footer .lokasi iframe {
     margin-top: 80px;
     font-weight: 700;
     color: #2F3161;
-    font-size:55px;
+    font-size:25px;
 }
 #struktur .nama-divisi{
     width: fit-content;
@@ -182,20 +182,67 @@ footer .lokasi iframe {
     /* margin-top: 250px; */
     font-weight: 700;
     color: #2F3161;
-    font-size: 55px;
+    font-size: 25px;
 }
 #kepengurusan .container{
     padding: 15% 0;
     height: 100vh;
 }
 .sub{
-    margin-top: 40px;
+    margin-top: 10px;
 }
 
 #kepengurusan .sub-title{
     margin: 0 auto;
     color: white;
     font-weight: 700;
-    font-size: 55px;
+    font-size: 25px;
     line-height: 64px;
+}
+
+@media(min-width: 768px) {
+    .title {
+        background: rgba(255, 255, 255, 0.4);
+        box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+        border-radius: 50px;
+        width: fit-content;
+        padding: 5px 50px;
+        border: 2px solid white;
+        margin: auto;
+        /* margin-top: 250px; */
+        font-weight: 700;
+        color: #2F3161;
+        font-size: 55px;
+    }
+    .title-divisi {
+        background: rgba(255, 255, 255, 0.4);
+        box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+        border-radius: 50px;
+        width: fit-content;
+        padding: 5px 50px;
+        border: 2px solid white;
+        margin: auto;
+        margin-top: 80px;
+        font-weight: 700;
+        color: #2F3161;
+        font-size:55px;
+    }
+    #struktur .nama-divisi{
+        width: fit-content;
+        height: fit-content;
+    }
+    .sub{
+        margin-top: 40px;
+    }
+    #kepengurusan .sub-title{
+        margin: 0 auto;
+        color: white;
+        font-weight: 700;
+        font-size: 55px;
+        line-height: 64px;
+    }
 }
