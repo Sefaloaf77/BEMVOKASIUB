@@ -134,3 +134,68 @@ footer .lokasi iframe {
     font-size: 32px;
     line-height: 48px;
 }
+
+.title-divisi {
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 50px;
+    border: 2px solid white;
+    margin: auto;
+    margin-top: 80px;
+    font-weight: 700;
+    color: #2F3161;
+    font-size:55px;
+}
+#struktur .nama-divisi{
+    width: fit-content;
+    height: fit-content;
+}
+#struktur img{
+    background-position: center;
+    width: 100%;
+    margin: 0 auto;
+}
+#kepengurusan {
+    background-image: url("../img/bg-mid-long.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    margin-top: 120px;
+    height: 100%;
+}
+
+.title {
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 50px;
+    border: 2px solid white;
+    margin: auto;
+    /* margin-top: 250px; */
+    font-weight: 700;
+    color: #2F3161;
+    font-size: 55px;
+}
+#kepengurusan .container{
+    padding: 15% 0;
+    height: 100vh;
+}
+.sub{
+    margin-top: 40px;
+}
+
+#kepengurusan .sub-title{
+    margin: 0 auto;
+    color: white;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 64px;
+}

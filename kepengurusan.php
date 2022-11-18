@@ -3,7 +3,7 @@
 <?php include('./partials/head.php') ?>
 
 <!-- own css -->
-<link rel="stylesheet" href="assets/css/main_kabinet.css">
+<link rel="stylesheet" href="assets/css/kepengurusan.css">
 
 <body>
     <?php include('./partials/navbar.php') ?>
@@ -23,6 +23,29 @@
         </div>
     </section>
 
+    <section id="struktur">
+        <div class="container">
+            <div class="row">
+                <div class="text-center nama-divisi d-md-flex align-items-center justify-content-center mx-auto" data-aos="zoom-out">
+                    <div class="title-divisi">Struktur</div>
+                </div>
+            </div>
+            <div class="row">
+                <img src="assets/img/struktur.svg" alt="">
+            </div>
+        </div>
+    </section>
+
+    <section id="kepengurusan">
+        <div class="container align-items-center">
+            <div class="text-center">
+                <h1 class="title">Kepengurusan</h1>
+            </div>
+            <div class="text-center sub">
+                <h1 class="sub-title">Kabinet Saskara Gama</h1>
+            </div>
+        </div>
+    </section>
     
 
     <!-- staff -->

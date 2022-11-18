@@ -18,7 +18,7 @@
                         Kabinet
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="main_kabinet.php">Kepengurusan</a></li>
+                        <li><a class="dropdown-item" href="kepengurusan.php">Kepengurusan</a></li>
                         <li><a class="dropdown-item" href="presiden.php">Presiden dan Wakil</a></li>
                         <li><a class="dropdown-item" href="menko.php">Menteri Koordinator</a></li>
                         <li><a class="dropdown-item" href="bjmo.php">BJMO</a></li>
