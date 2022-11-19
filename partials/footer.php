@@ -10,30 +10,30 @@
             <div class="col-lg-3 col-md-3 col-11 mt-3 mt-md-0 halaman">
                 <h4 class="text-white">Halaman</h4>
                 <div class="d-grid">
-                    <a href="index.php">Beranda</a>
-                    <a href="tentang.php">Tentang</a>
-                    <a href="kontak.php">Kontak</a>
-                    <a href="ormawa.php">ORMAWA</a>
+                    <a href="index">Beranda</a>
+                    <a href="tentang">Tentang</a>
+                    <a href="kontak">Kontak</a>
+                    <a href="ormawa">ORMAWA</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-11 mt-3 mt-md-0 kabinet">
                 <div class="row">
                     <h4 class="text-white">Kabinet</h4>
                     <div class="col-md-6 col-lg-6 d-grid">
-                        <a href="presiden.php">Presiden & Wakil</a>
-                        <a href="bjmo.php">BJMO</a>
-                        <a href="admin.php">Administrasi</a>
-                        <a href="keuangan.php">Keuangan</a>
-                        <a href="puskominfo.php">PUSKOMINFO</a>
-                        <a href="psdm.php">PSDM</a>
+                        <a href="presiden">Presiden & Wakil</a>
+                        <a href="bjmo">BJMO</a>
+                        <a href="admin">Administrasi</a>
+                        <a href="keuangan">Keuangan</a>
+                        <a href="puskominfo">PUSKOMINFO</a>
+                        <a href="psdm">PSDM</a>
                     </div>
                     <div class="col-md-6 col-lg-6 d-grid">
-                        <a href="menko.php">MENKO</a>
-                        <a href="pora.php">PORA</a>
-                        <a href="advokesma.php">ADVOKESMA</a>
-                        <a href="sosma.php">SOSMA</a>
-                        <a href="perhubungan.php">Perhubungan</a>
-                        <a href="kastrat.php">KASTRAT</a>
+                        <a href="menko">MENKO</a>
+                        <a href="pora">PORA</a>
+                        <a href="advokesma">ADVOKESMA</a>
+                        <a href="sosma">SOSMA</a>
+                        <a href="perhubungan">Perhubungan</a>
+                        <a href="kastrat">KASTRAT</a>
                     </div>
                 </div>
             </div>
