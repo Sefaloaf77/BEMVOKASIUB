@@ -20,7 +20,7 @@
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
-                    <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
+                    <img src="assets/img/bph-bpi/neta-odil.webp" alt="neta-odil" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
                         <span class="fw-bold">Arneta Silvia Ananda</span><br>
                         Menteri ADVOKESMA<br>
@@ -97,11 +97,11 @@
                     Hafizan Shadiqi -
                     Nur Laili Indah Fuji Lestari -
                     Krisna Afiananta -
-                    Wulan Ratu Wawosangia - 
-                    Puti Fitrani - 
-                    Haysal Anggita - 
-                    Priska Wihita - 
-                    Nila Dwi Puspita - 
+                    Wulan Ratu Wawosangia -
+                    Puti Fitrani -
+                    Haysal Anggita -
+                    Priska Wihita -
+                    Nila Dwi Puspita -
                 </div>
             </div>
         </div>

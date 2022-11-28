@@ -20,7 +20,7 @@
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
-                    <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
+                    <img src="assets/img/bph-bpi/melan-tirana-ervian.webp" alt="melan-tirana-ervian" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
                         <span class="fw-bold">Dewi Meiliana Budi Prasetyo Rini</span><br>
                         Menteri Perhubungan<br>
@@ -105,12 +105,12 @@
                     Muhammad Zidane -
                     Saskia Desy Maharani -
                     Putricia Dias Micella -
-                    Susilawati Dewi - 
-                    Auliaun Najwa - 
-                    Fajria Putri Fasya - 
-                    Dhika Setya Rusmana - 
-                    Arhakim Hisyam Rachmansyah Putra - 
-                    Toby Astor Van Tri Nov Sianturi - 
+                    Susilawati Dewi -
+                    Auliaun Najwa -
+                    Fajria Putri Fasya -
+                    Dhika Setya Rusmana -
+                    Arhakim Hisyam Rachmansyah Putra -
+                    Toby Astor Van Tri Nov Sianturi -
                     Ampuh Joyonegoro
                 </div>
             </div>
