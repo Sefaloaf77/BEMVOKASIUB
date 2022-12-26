@@ -142,4 +142,60 @@ footer .lokasi iframe {
     color: #EBC803;
     -webkit-text-stroke-width: 4px;
     -webkit-text-fill-color: transparent;
+} */
+.top .ormawa {
+    background-color: red;
+    width: 100%;
+    /* height: inherit; */
+    margin: auto;
 }
+.top {
+    background-image: url('../img/bg-top-ormawa.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position-y: 0px; */
+    /* background-position-x: -200px; */
+    height: 130vh;
+    /* padding: 50px 0; */
+}
+.judul h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: #172F47;
+}
+.res-slider{
+    padding: 0px 30px;
+}
+.res-slider .teks {
+    padding: 30px;
+    border: 1px solid #A17A06;
+    border-radius: 20px;
+}
+.lso{
+    margin-top: 220px;
+}
+/* .container {
+    margin-right: 50px;
+} */
+
+/* .content1 img{
+    float: left;
+    margin-left: 70px;
+    margin-right: 30px;
+} */
+
+/*
+.slider .teks h2 {
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.content2 {
+    margin-top: 200px;
+}
+.content2 img{
+    float: left;
+    margin-left: 70px;
+    margin-right: 30px;
+} */

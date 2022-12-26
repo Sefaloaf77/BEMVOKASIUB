@@ -20,7 +20,7 @@
             </div>
             <div class="row justify-content-between my-5">
                 <div class="col-md-5">
-                    <img src="assets/img/bjmo/naura-sevi.svg" alt="naura sevi" class="img-fluid" data-aos="fade-up">
+                    <img src="assets/img/bph-bpi/ilma-dinpus-ben.webp" alt="ilma-dinpus-ben" class="img-fluid" data-aos="fade-up">
                     <div class="nama-area bg-primary text-center text-light py-4 shadow">
                         <span class="fw-bold">Aldenia Luthfian ilma</span><br>
                         Menteri SOSMA<br>

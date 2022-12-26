@@ -199,6 +199,12 @@
                             <li class="splide__slide">
                                 <img src="assets/img/comprof.webp" loading="lazy">
                             </li>
+                            <li class="splide__slide">
+                                <img src="assets/img/vition.webp" loading="lazy">
+                            </li>
+                            <li class="splide__slide">
+                                <img src="assets/img/pops.png" loading="lazy">
+                            </li>
                         </ul>
                     </div>
                 </div>
