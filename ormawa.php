@@ -159,7 +159,7 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>6. Penalaran</h2>
+                                <h2>5. Penalaran</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
                             </div>
                         </div>
@@ -172,7 +172,7 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>7. Basket Vokasi</h2>
+                                <h2>6. Basket Vokasi</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
                             </div>
                         </div>
