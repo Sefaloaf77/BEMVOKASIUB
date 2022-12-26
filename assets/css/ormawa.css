@@ -149,16 +149,7 @@ footer .lokasi iframe {
     /* height: inherit; */
     margin: auto;
 }
-.top {
-    background-image: url('../img/bg-top-ormawa.svg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-position-y: 0px; */
-    /* background-position-x: -200px; */
-    height: 130vh;
-    /* padding: 50px 0; */
-}
+
 .judul h1 {
     text-align: center;
     font-weight: bolder;
