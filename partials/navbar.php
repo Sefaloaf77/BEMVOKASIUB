@@ -34,13 +34,13 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link competition" href="#">Tentang</a>
+                    <a class="nav-link competition" href="tentang">Tentang</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link merch" href="#">Kontak</a>
+                    <a class="nav-link merch" href="kontak">Kontak</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link merch" href="#">ORMAWA</a>
+                    <a class="nav-link merch" href="ormawa">ORMAWA</a>
                 </li>
             </ul>
         </div>
