@@ -2,6 +2,9 @@
     width: 100%;
 
 }
+/* .filosofi{
+    margin-top: 50px;
+} */
 .filosofi-logo{
     width: max-content;
     padding: 10px 30px;
@@ -70,10 +73,10 @@
     font-size: 20px;
 }
 
-.filosofi-warna{
+/* .filosofi-warna{
     width: 1000px;
     margin: auto;
-}
+} */
 
 .lingkaran-warna{
     width: 40px;
@@ -143,14 +146,23 @@
 }
 
 .nama h2{
-    font-size: 45px;
+    font-size: 25px;
 }
 
 .nama h3{
-    font-size: 45px;
+    font-size: 25px;
     font-weight: lighter;
 }
+@media(min-width: 768px) {
+   .nama h2 {
+       font-size: 45px;
+   }
 
+   .nama h3 {
+       font-size: 45px;
+       font-weight: lighter;
+   }
+}
 .desc-nama{
     /* width: 450px; */
     margin: auto;
@@ -198,7 +210,8 @@
 
 .tagline .container{
     padding: 10% 0;
-    height: 60vh;
+    /* height: 60vh; */
+    height: max-content;
 }
 
 .text-tagline{
@@ -227,7 +240,6 @@
 }
 
 .list1{
-    /* width: auto; */
     background-color: #D4F2FF;
     padding: 10px;
     border-radius: 10px;
@@ -235,7 +247,6 @@
 }
 
 .list2{
-    /* width: auto; */
     background-color: #B2E6FF;
     padding: 10px;
     border-radius: 10px;
@@ -243,7 +254,6 @@
 }
 
 .list3{
-    /* width: auto; */
     background-color: #86D8FF;
     padding: 10px;
     border-radius: 10px;
@@ -251,7 +261,6 @@
 }
 
 .list4{
-    /* width: auto; */
     background-color: #66C2ED;
     padding: 10px;
     border-radius: 10px;
