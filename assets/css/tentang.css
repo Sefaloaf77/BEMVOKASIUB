@@ -1,4 +1,8 @@
-.fil-logo{
+.bg-top img{
+    width: 100%;
+
+}
+.filosofi-logo{
     width: max-content;
     padding: 10px 30px;
     /* border: 2px solid #2F3161; */
@@ -7,7 +11,7 @@
     margin: auto;
     margin-bottom: 30px;
 }
-.title-logo{
+.title-filosofi{
     color: #2F3161;
     font-weight: bolder;
     text-align: center;
@@ -22,10 +26,9 @@
     height: 350px;
 }
 
-.fil-bentuk{
+.filosofi-bentuk{
     text-align: center;
     font-size: 24px;
-    font-weight: 400px;
     color: #2F3161;
 }
 
@@ -37,23 +40,242 @@
     border: 1px solid #A17A06;
     /* background-color: #FFFADC; */
     border-radius: 20px;
-    
+    margin-right: 5px; 
+    margin-bottom: 10px;
 }
 
 .fil-desc-logo{
-    width: 1100px;
+    /* width: 1100px; */
     border: 1px solid #A17A06;
     border-radius: 20px;
-    margin: 20px 0px;
+    margin: auto;
     background-color: #FFFADC;
+    padding: 40px;
 }
 
 .fil-img{
-    padding: 30px;
-    width: 175px;
+    margin-right: 40px;
+    /* width: 175px; */
     float: left;
     /* position: absolute; */
 }
 
+.title-fil-bentuk{
+    font-size: 34px;
+    font-weight: bolder;
+    color: #2F3161;
+}
 
+.desc-fil-bentuk{
+    font-size: 20px;
+}
 
+.filosofi-warna{
+    width: 1000px;
+    margin: auto;
+}
+
+.lingkaran-warna{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.desc-warna{
+    font-size: 24px;
+    /* margin-left: 10px; */
+}
+
+.title {
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 50px;
+    border: 2px solid white;
+    margin: auto;
+    /* margin-top: 250px; */
+    /* font-weight: 600;
+    color: #2F3161;
+    font-size: 15px; */
+    color: #2F3161;
+    font-weight: bolder;
+    /* text-align: center; */
+}
+
+.filosofi-nama{
+    background-image: url('../img/bg-middle-tentang.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    /* background-position-x: -200px; */
+    /* height: 100%; */
+    width: 100%;
+}
+
+.filosofi-nama .container{
+    padding: 10% 0;
+    height: 150vh;
+}
+
+.title-kabinet{
+    color: #fff;
+    font-weight: bolder;
+}
+
+.nama-kabinet{
+    width: auto;
+    margin: auto;
+}
+
+.nama{
+    /* width: 450px; */
+    margin: auto;
+    background-color: #2F3161;
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 20px;
+    padding: 10px 0px;
+}
+
+.nama h2{
+    font-size: 45px;
+}
+
+.nama h3{
+    font-size: 45px;
+    font-weight: lighter;
+}
+
+.desc-nama{
+    /* width: 450px; */
+    margin: auto;
+    background: rgba(255, 255, 255, 0.867);
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 20px;
+    padding: 10px 0px;
+}
+
+.deskripsi{
+    font-size: 26px;
+    color: #2F3161;
+    padding: 15px;
+}
+
+.full-desc{
+    /* width: 950px; */
+    margin: auto;
+    background: rgba(255, 255, 255, 0.867);
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 20px;
+}
+
+.full-desc h1{
+    font-size: 64px;
+    color: #2F3161;
+    font-weight: bolder;
+    padding: 20px 20px 0px; 
+}
+
+.tagline{
+    background-image: url('../img/bg-tagline.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    /* background-position-x: -200px; */
+    /* height: 100%; */
+    width: 100%;
+}
+
+.tagline .container{
+    padding: 10% 0;
+    height: 60vh;
+}
+
+.text-tagline{
+    font-weight: bolder;
+}
+
+.visimisi{
+    width: 100%;
+}
+.visimisi .container{
+    padding: 5% 0;
+}
+
+.title-visimisi{
+    color: #2F3161;
+    font-weight: bolder;
+}
+
+.part-visi{
+    color: #2F3161;
+    font-weight: bold;
+}
+
+.box-visimisi{
+    margin-top: 5%;
+}
+
+.list1{
+    /* width: auto; */
+    background-color: #D4F2FF;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.list2{
+    /* width: auto; */
+    background-color: #B2E6FF;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.list3{
+    /* width: auto; */
+    background-color: #86D8FF;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.list4{
+    /* width: auto; */
+    background-color: #66C2ED;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btn {
+    border-radius: 30px;
+    padding: 10px 15px;
+}
+
+.btn-light {
+    border-radius: 30px;
+    padding: 10px 15px;
+    box-shadow: 0 0 20px 0 #ffffff;
+}
+
+.btn-light:hover {
+    box-shadow: 0 0 20px 0 #EBC803;
+    background-color: #2F3161;
+    color: white;
+}
+
+.btn-blue {
+    color: white;
+    background-image: linear-gradient(#66C2ED, #2F3161);
+    border: none;
+}
