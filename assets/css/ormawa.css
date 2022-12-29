@@ -124,27 +124,28 @@ footer .lokasi iframe {
 .ormawa {
     position: absolute;
     width: 100%;
-    top: 50%;
+    top: 35%;
     text-align: center;
-    font-size: 10vw;
+    font-size: 7vw;
 }
 
 .bg-ormawa {
     position: relative;
     text-align: center;
-    font-size: 150px;
+    font-size: 10vw;
     font-weight: 700;
     color: rgb(6, 30, 61);
     letter-spacing: 50px;
+    width: 100%;
 }
+
 
 .top .bg-ormawa .ma {
     color: #EBC803;
     -webkit-text-stroke-width: 4px;
     -webkit-text-fill-color: transparent;
-} */
+} 
 .top .ormawa {
-    background-color: red;
     width: 100%;
     /* height: inherit; */
     margin: auto;
