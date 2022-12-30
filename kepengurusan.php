@@ -1,3 +1,52 @@
+<?php
+$kepengurusan = [
+  [
+    'title1' => 'Presiden',
+    'title2' => 'Wakil Presiden',
+    'gambar' => 'foto_presi.svg',
+  ],
+  [
+    'title1' => 'Menteri',
+    'title2' => 'Koordinator',
+    'gambar' => 'menko.svg',
+  ],
+  [
+    'title1' => '.',
+    'title2' => 'BJMO',
+    'gambar' => 'bjmo.svg',
+  ],
+  [
+    'title1' => 'Biro',
+    'title2' => 'Administrasi',
+    'gambar' => 'administrasi.svg',
+  ],
+  [
+    'title1' => 'Biro',
+    'title2' => 'Keuangan',
+    'gambar' => 'keuangan.svg',
+  ],
+  [
+    'title1' => 'Biro',
+    'title2' => 'PUSKOMINFO',
+    'gambar' => 'puskom.svg',
+  ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'PSDM',
+    'gambar' => 'psdm.svg',
+  ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'PORA',
+    'gambar' => 'pora.svg',
+  ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'ADVOKESMA',
+    'gambar' => 'advo.svg',
+  ],
+  ];
+?>
 <!doctype html>
 <html lang="en">
 <?php include('./partials/head.php') ?>
@@ -43,6 +92,30 @@
             </div>
             <div class="text-center sub">
                 <h1 class="sub-title">Kabinet Saskara Gama</h1>
+            </div>
+            <div class="row">
+                <?php foreach ($kepengurusan as $k){?>
+                    <div class="col-lg-4 p-5">
+                    <div class="kepengurusan-card bg-transparent">
+                        <div class="header-card p-4 d-flex align-items-center flex-column position-relative ">
+                            <img class="main-img" src="assets/img/kepengurusan/<?=$k['gambar'] ?>" alt="">
+                            <div  class="circle-link d-flex align-items-center justify-content-center p-3 position-absolute bottom-0">
+                                <div class="sub-circle-link p-1">
+                                    <a href="">
+                                        <img  src="assets/img/arrow.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="body-card">
+                            <h1><?=$k['title1'] ?></h1>
+                            <h1><?=$k['title2'] ?></h1>
+                        </div>
+                    </div>
+                </div>
+                <?php } ?>
+                
+                
             </div>
         </div>
     </section>
