@@ -44,6 +44,7 @@
             <div class="text-center sub">
                 <h1 class="sub-title">Kabinet Saskara Gama</h1>
             </div>
+            <div class="hello"></div>
         </div>
     </section>
     
