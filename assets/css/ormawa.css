@@ -40,9 +40,8 @@ body {
     background-size: cover;
     width: 100%;
     padding-bottom: 60px;
-    /* z-index: -222; */
+    z-index: -222;
 }
-
 footer {
     background-color: #2F3161;
 }
@@ -109,64 +108,59 @@ footer .lokasi iframe {
     font-weight: bolder;
     color: #172F47;
 }
-.res-slider{
+
+.res-slider {
     padding: 0px 30px;
 }
+
 .res-slider .teks {
     padding: 30px;
     border: 1px solid #A17A06;
     border-radius: 20px;
 }
-.lso{
+
+.lso {
     margin-top: 220px;
 }
 
-.ormawa {
+/* .ormawa {
     position: absolute;
     width: 100%;
     top: 35%;
     text-align: center;
-    font-size: 7vw;
-}
+    font-size: 10vw;
+} */
 
 .bg-ormawa {
-    position: relative;
-    text-align: center;
-    font-size: 10vw;
-    font-weight: 700;
-    color: rgb(6, 30, 61);
-    letter-spacing: 50px;
+    background-image: url('../img/bg-top-ormawa.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 140vh;
     width: 100%;
 }
 
-
-.top .bg-ormawa .ma {
-    color: #EBC803;
-    -webkit-text-stroke-width: 4px;
-    -webkit-text-fill-color: transparent;
-} 
-.top .ormawa {
-    width: 100%;
-    /* height: inherit; */
-    margin: auto;
-}
 
 .judul h1 {
     text-align: center;
     font-weight: bolder;
     color: #172F47;
 }
-.res-slider{
+
+.res-slider {
     padding: 0px 30px;
 }
+
 .res-slider .teks {
     padding: 30px;
     border: 1px solid #A17A06;
     border-radius: 20px;
 }
-.lso{
+
+.lso {
     margin-top: 220px;
 }
+
 /* .container {
     margin-right: 50px;
 } */

@@ -11,9 +11,8 @@
 
     <!-- ormawa -->
     <section class="top">
-        <div class="bg-ormawa">
-            <img src="assets/img/bg-top-ormawa.svg" loading="lazy" alt="circle" class="img-fluid">
-            <div class="col-12 mt-5 ormawa">OR<span class="ma">MA</span>WA</div>
+        <div class="bg-ormawa text-center justify-content-center align-items-center d-flex">
+            <img src="assets/img/hero-ormawa.svg" loading="lazy" alt="circle" class="img-fluid hero-ormawa">
         </div>
     </section>
 
