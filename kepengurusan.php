@@ -1,3 +1,13 @@
+<?php
+$kepengurusan = [
+  [
+    'title1' => 'Presiden',
+    'title2' => 'Wakil Presiden',
+    'gambar' => 'foto_presi.svg',
+    
+  ],
+  ];
+?>
 <!doctype html>
 <html lang="en">
 <?php include('./partials/head.php') ?>
@@ -44,7 +54,30 @@
             <div class="text-center sub">
                 <h1 class="sub-title">Kabinet Saskara Gama</h1>
             </div>
-            <div class="hello"></div>
+            <div class="row">
+                <?php foreach ($kepengurusan as $k){?>
+                    <div class="col-lg-4 p-5">
+                    <div class="kepengurusan-card bg-transparent">
+                        <div class="header-card p-4 d-flex align-items-center flex-column position-relative ">
+                            <img class="main-img" src="assets/img/kepengurusan/<?=$k['gambar'] ?>" alt="">
+                            <div  class="circle-link d-flex align-items-center justify-content-center p-3 position-absolute bottom-0">
+                                <div class="sub-circle-link p-1">
+                                    <a href="">
+                                        <img  src="assets/img/arrow.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="body-card">
+                            <h1><?=$k['title1'] ?></h1>
+                            <h1><?=$k['title2'] ?></h1>
+                        </div>
+                    </div>
+                </div>
+                <?php } ?>
+                
+                
+            </div>
         </div>
     </section>
     
