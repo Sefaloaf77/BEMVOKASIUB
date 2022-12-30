@@ -30,6 +30,21 @@ $kepengurusan = [
     'title2' => 'PUSKOMINFO',
     'gambar' => 'puskom.svg',
   ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'PSDM',
+    'gambar' => 'psdm.svg',
+  ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'PORA',
+    'gambar' => 'pora.svg',
+  ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'ADVOKESMA',
+    'gambar' => 'advo.svg',
+  ],
   ];
 ?>
 <!doctype html>
