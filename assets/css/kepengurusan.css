@@ -166,7 +166,7 @@ footer .lokasi iframe {
     background-size: cover;
     background-position-y: 0px;
     margin-top: 120px;
-    min-height: 5000px;
+    min-height: 3500px;
 }
 
 .title {
@@ -253,6 +253,9 @@ footer .lokasi iframe {
     #kepengurusan .kepengurusan-card .body-card h1{
         font-size: 18px;
         line-height: 28px;
+    }
+    #kepengurusan {
+        min-height: 8500px;
     }
 }
 

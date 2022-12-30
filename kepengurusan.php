@@ -4,46 +4,73 @@ $kepengurusan = [
     'title1' => 'Presiden',
     'title2' => 'Wakil Presiden',
     'gambar' => 'foto_presi.svg',
+    'link'   => 'presiden.php'
   ],
   [
     'title1' => 'Menteri',
     'title2' => 'Koordinator',
     'gambar' => 'menko.svg',
+    'link'   => 'menko.php'
   ],
   [
     'title1' => '.',
     'title2' => 'BJMO',
     'gambar' => 'bjmo.svg',
+    'link'   => 'bjmo.php'
   ],
   [
     'title1' => 'Biro',
     'title2' => 'Administrasi',
     'gambar' => 'administrasi.svg',
+    'link'   => 'admin.php'
   ],
   [
     'title1' => 'Biro',
     'title2' => 'Keuangan',
     'gambar' => 'keuangan.svg',
+    'link'   => 'keuangan.php'
   ],
   [
     'title1' => 'Biro',
     'title2' => 'PUSKOMINFO',
     'gambar' => 'puskom.svg',
+    'link'   => 'puskominfo.php'
   ],
   [
     'title1' => 'Kementerian',
     'title2' => 'PSDM',
     'gambar' => 'psdm.svg',
+    'link'   => 'psdm.php'
   ],
   [
     'title1' => 'Kementerian',
     'title2' => 'PORA',
     'gambar' => 'pora.svg',
+    'link'   => 'pora.php'
   ],
   [
     'title1' => 'Kementerian',
     'title2' => 'ADVOKESMA',
     'gambar' => 'advo.svg',
+    'link'   => 'advokesma.php'
+  ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'SOSMA',
+    'gambar' => 'sosma.svg',
+    'link'   => 'sosma.php'
+  ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'KASTRAT',
+    'gambar' => 'kastrat.svg',
+    'link'   => 'kastrat.php'
+  ],
+  [
+    'title1' => 'Kementerian',
+    'title2' => 'Perhubungan',
+    'gambar' => 'perhub.svg',
+    'link'   => 'perhubungan.php'
   ],
   ];
 ?>
@@ -101,7 +128,7 @@ $kepengurusan = [
                             <img class="main-img" src="assets/img/kepengurusan/<?=$k['gambar'] ?>" alt="">
                             <div  class="circle-link d-flex align-items-center justify-content-center p-3 position-absolute bottom-0">
                                 <div class="sub-circle-link p-1">
-                                    <a href="">
+                                    <a href="<?=$k['link'] ?>">
                                         <img  src="assets/img/arrow.svg" alt="">
                                     </a>
                                 </div>
