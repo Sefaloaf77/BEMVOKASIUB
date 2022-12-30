@@ -4,7 +4,31 @@ $kepengurusan = [
     'title1' => 'Presiden',
     'title2' => 'Wakil Presiden',
     'gambar' => 'foto_presi.svg',
-    
+  ],
+  [
+    'title1' => 'Menteri',
+    'title2' => 'Koordinator',
+    'gambar' => 'menko.svg',
+  ],
+  [
+    'title1' => '.',
+    'title2' => 'BJMO',
+    'gambar' => 'bjmo.svg',
+  ],
+  [
+    'title1' => 'Biro',
+    'title2' => 'Administrasi',
+    'gambar' => 'administrasi.svg',
+  ],
+  [
+    'title1' => 'Biro',
+    'title2' => 'Keuangan',
+    'gambar' => 'keuangan.svg',
+  ],
+  [
+    'title1' => 'Biro',
+    'title2' => 'PUSKOMINFO',
+    'gambar' => 'puskom.svg',
   ],
   ];
 ?>
