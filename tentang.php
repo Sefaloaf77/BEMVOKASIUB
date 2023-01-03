@@ -175,7 +175,7 @@
         </div>
         <div class="text-center mt-4">
           <h3><strong>Yuk kepoin kita!</strong></h3>
-          <a href="" class="btn btn-blue mt-3">Struktur Organisasi</a>
+          <a href="kepengurusan" class="btn btn-blue mt-3">Struktur Organisasi</a>
         </div>
       </div>
     </section>

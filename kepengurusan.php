@@ -1,78 +1,78 @@
 <?php
 $kepengurusan = [
-  [
-    'title1' => 'Presiden',
-    'title2' => 'Wakil Presiden',
-    'gambar' => 'foto_presi.svg',
-    'link'   => 'presiden.php'
-  ],
-  [
-    'title1' => 'Menteri',
-    'title2' => 'Koordinator',
-    'gambar' => 'menko.svg',
-    'link'   => 'menko.php'
-  ],
-  [
-    'title1' => '.',
-    'title2' => 'BJMO',
-    'gambar' => 'bjmo.svg',
-    'link'   => 'bjmo.php'
-  ],
-  [
-    'title1' => 'Biro',
-    'title2' => 'Administrasi',
-    'gambar' => 'administrasi.svg',
-    'link'   => 'admin.php'
-  ],
-  [
-    'title1' => 'Biro',
-    'title2' => 'Keuangan',
-    'gambar' => 'keuangan.svg',
-    'link'   => 'keuangan.php'
-  ],
-  [
-    'title1' => 'Biro',
-    'title2' => 'PUSKOMINFO',
-    'gambar' => 'puskom.svg',
-    'link'   => 'puskominfo.php'
-  ],
-  [
-    'title1' => 'Kementerian',
-    'title2' => 'PSDM',
-    'gambar' => 'psdm.svg',
-    'link'   => 'psdm.php'
-  ],
-  [
-    'title1' => 'Kementerian',
-    'title2' => 'PORA',
-    'gambar' => 'pora.svg',
-    'link'   => 'pora.php'
-  ],
-  [
-    'title1' => 'Kementerian',
-    'title2' => 'ADVOKESMA',
-    'gambar' => 'advo.svg',
-    'link'   => 'advokesma.php'
-  ],
-  [
-    'title1' => 'Kementerian',
-    'title2' => 'SOSMA',
-    'gambar' => 'sosma.svg',
-    'link'   => 'sosma.php'
-  ],
-  [
-    'title1' => 'Kementerian',
-    'title2' => 'KASTRAT',
-    'gambar' => 'kastrat.svg',
-    'link'   => 'kastrat.php'
-  ],
-  [
-    'title1' => 'Kementerian',
-    'title2' => 'Perhubungan',
-    'gambar' => 'perhub.svg',
-    'link'   => 'perhubungan.php'
-  ],
-  ];
+    [
+        'title1' => 'Presiden',
+        'title2' => 'Wakil Presiden',
+        'gambar' => 'foto_presi.svg',
+        'link'   => 'presiden'
+    ],
+    [
+        'title1' => 'Menteri',
+        'title2' => 'Koordinator',
+        'gambar' => 'menko.svg',
+        'link'   => 'menko'
+    ],
+    [
+        'title1' => '.',
+        'title2' => 'BJMO',
+        'gambar' => 'bjmo.svg',
+        'link'   => 'bjmo'
+    ],
+    [
+        'title1' => 'Biro',
+        'title2' => 'Administrasi',
+        'gambar' => 'administrasi.svg',
+        'link'   => 'admin'
+    ],
+    [
+        'title1' => 'Biro',
+        'title2' => 'Keuangan',
+        'gambar' => 'keuangan.svg',
+        'link'   => 'keuangan'
+    ],
+    [
+        'title1' => 'Biro',
+        'title2' => 'PUSKOMINFO',
+        'gambar' => 'puskom.svg',
+        'link'   => 'puskominfo'
+    ],
+    [
+        'title1' => 'Kementerian',
+        'title2' => 'PSDM',
+        'gambar' => 'psdm.svg',
+        'link'   => 'psdm'
+    ],
+    [
+        'title1' => 'Kementerian',
+        'title2' => 'PORA',
+        'gambar' => 'pora.svg',
+        'link'   => 'pora'
+    ],
+    [
+        'title1' => 'Kementerian',
+        'title2' => 'ADVOKESMA',
+        'gambar' => 'advo.svg',
+        'link'   => 'advokesma'
+    ],
+    [
+        'title1' => 'Kementerian',
+        'title2' => 'SOSMA',
+        'gambar' => 'sosma.svg',
+        'link'   => 'sosma'
+    ],
+    [
+        'title1' => 'Kementerian',
+        'title2' => 'KASTRAT',
+        'gambar' => 'kastrat.svg',
+        'link'   => 'kastrat'
+    ],
+    [
+        'title1' => 'Kementerian',
+        'title2' => 'Perhubungan',
+        'gambar' => 'perhub.svg',
+        'link'   => 'perhubungan'
+    ],
+];
 ?>
 <!doctype html>
 <html lang="en">
@@ -93,13 +93,13 @@ $kepengurusan = [
                 <div class="col-md-12 col-lg-12 col-12 heading align-items-center my-auto text-center">
                     <h1>Kabinet Saskara Gama</h1>
                     <h2>Bergema, Bergerak, Seirama</h2>
-                    <a href="#" class="btn btn-light" data-aos="fade-right">Kenali Kami</a>
+                    <a class="btn btn-light" href="#struktur" data-aos="fade-right">Kenali Kami</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="struktur">
+    <section id="struktur" data-bs-spy="scroll" class="scrollspy-example">
         <div class="container">
             <div class="row">
                 <div class="text-center nama-divisi d-md-flex align-items-center justify-content-center mx-auto" data-aos="zoom-out">
@@ -121,32 +121,32 @@ $kepengurusan = [
                 <h1 class="sub-title">Kabinet Saskara Gama</h1>
             </div>
             <div class="row">
-                <?php foreach ($kepengurusan as $k){?>
+                <?php foreach ($kepengurusan as $k) { ?>
                     <div class="col-lg-4 p-5">
-                    <div class="kepengurusan-card bg-transparent">
-                        <div class="header-card p-4 d-flex align-items-center flex-column position-relative ">
-                            <img class="main-img" src="assets/img/kepengurusan/<?=$k['gambar'] ?>" alt="">
-                            <div  class="circle-link d-flex align-items-center justify-content-center p-3 position-absolute bottom-0">
-                                <div class="sub-circle-link p-1">
-                                    <a href="<?=$k['link'] ?>">
-                                        <img  src="assets/img/arrow.svg" alt="">
-                                    </a>
+                        <div class="kepengurusan-card bg-transparent">
+                            <div class="header-card p-4 d-flex align-items-center flex-column position-relative ">
+                                <img class="main-img" src="assets/img/kepengurusan/<?= $k['gambar'] ?>" alt="<?= $k['title1'].$k['title2'] ?>" loading="lazy">
+                                <div class="circle-link d-flex align-items-center justify-content-center p-3 position-absolute bottom-0">
+                                    <div class="sub-circle-link p-1">
+                                        <a href="<?= $k['link'] ?>">
+                                            <img src="assets/img/arrow.svg" alt="">
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="body-card">
-                            <h1><?=$k['title1'] ?></h1>
-                            <h1><?=$k['title2'] ?></h1>
+                            <div class="body-card">
+                                <h1><?= $k['title1'] ?></h1>
+                                <h1><?= $k['title2'] ?></h1>
+                            </div>
                         </div>
                     </div>
-                </div>
                 <?php } ?>
-                
-                
+
+
             </div>
         </div>
     </section>
-    
+
 
     <!-- staff -->
     <!-- <section class="staff">

@@ -42,6 +42,7 @@ body {
     padding-bottom: 60px;
     z-index: -222;
 }
+
 footer {
     background-color: #2F3161;
 }
@@ -103,151 +104,162 @@ footer .lokasi iframe {
     background-color: #EBC803;
 }
 
-.top img{
+.top img {
     width: 100%;
-    }
-    .bottom img{
+}
+
+.bottom img {
     width: 100%;
-    
-    }
-    .team{
-        padding-bottom: -1000px;
-        width: 100%;
-        height: 90vh;
-        background-image: url(asse/img/bg1.jpg);
-        background-size: cover;
-        background-position: center;
-    }
-    
-    .team h1{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 55px;
-        margin-bottom: 30px;
-    }
-    
-    .team h1 span{
-        color: #fac031;
-        margin-left: 15px;
-        font-family: mv boli;
-    }
-    
-    .team h1 span::after{
-        content: '';
-        width: 100%;
-        height: 2px;
-        background: #fac031;
-        display: block;
-        position: relative;
-        bottom: 15px;
-    }
-    
-    .team .team_box{
-        width: 95%;
-        margin: 0 auto;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        position: relative;
-        top: 13%;
-    }
-    
-    .team .team_box .profile{
-        width: 320px;
-        height: 320px;
-        border-radius: 50%;
-        margin: 0 15px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        position: relative;
-        box-shadow: 0 0 8px rgba(0,0,0,0.5);
-        transition: 0.4s;
-    }
-    
-    .team .team_box .profile:hover{
-        border-radius: 20px;
-        height: 320px;
-    }
-    
-    .team .team_box .profile img{
-        width: 250px;
-        height: 250px;
-        object-fit: cover;
-        object-position: center;
-        border-radius: 50%;
-        cursor: pointer;
-        box-shadow: 0 0 8px rgba(0,0,0,0.5);
-        z-index: 2;
-        transition: 0.4s;
-    }
-    
-    .team .team_box .profile:hover img{
-        border-radius: 20px;
-        margin-top: -230px;
-    }
-    
-    .team .team_box .profile .info{
-        position: absolute;
-        text-align: center;
-        top: 25%;
-        transition: 0.4s;
-    }
-    
-    .team .team_box .profile:hover .info{
-        top: 60%;
-    }
-    
-    .team .team_box .profile .info .name{
-        position: relative;
-        color: #000000;
-        margin-bottom: 15px;
-    }
-    
-    .team .team_box .profile .info .bio{
-        width: 70%;
-        text-align: center;
-        margin: 0 auto 10px auto;
-    }
-    
-    .team .team_box .profile .info .team_icon i{
-        margin: 10px 5px 5px 0;
-        cursor: pointer;
-        transition: 0.3s;
-    }
-    
-    .team .team_box .profile .info .team_icon i:hover{
-        color: #fac031;
-    }
-    
-    .filosofi-logo{
-        width: max-content;
-        padding: 10px 30px;
-        /* border: 2px solid #2F3161; */
-        box-shadow: 0px 4px 7px grey;
-        border-radius: 50px;
+
+}
+
+.team {
+    margin-top: 100px;
+}
+
+.team h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 55px;
+    margin-bottom: 30px;
+}
+
+.team .team_box {
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 13%;
+}
+
+.team .profile {
+    width: 300px;
+    height: 300px;
+    /* width: fit-content;
+    height: fit-content;
+    padding: 20px; */
+    border-radius: 50%;
+    margin: 20px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #ffffff;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    transition: 0.4s;
+}
+
+.team .profile:hover {
+    border-radius: 20px;
+    height: 320px;
+}
+
+.team .profile img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    z-index: 2;
+    transition: 0.4s;
+}
+
+.team .profile:hover img {
+    border-radius: 20px;
+    margin-top: -230px;
+}
+
+.team .profile .info {
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    transition: 0.4s;
+}
+
+.team .profile:hover .info {
+    top: 50%;
+}
+
+.team .profile .info .name {
+    position: relative;
+    top: 30px;
+    color: #000000;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.team .profile .info .bio {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto 10px auto;
+}
+
+.team .profile .info .team_icon i {
+    margin: 10px 5px 5px 0;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.team .profile .info .team_icon i:hover {
+    color: #fac031;
+}
+
+.filosofi-logo {
+    width: max-content;
+    padding: 10px 30px;
+    /* border: 2px solid #2F3161; */
+    box-shadow: 0px 4px 7px grey;
+    border-radius: 50px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.title {
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 50px;
+    width: fit-content;
+    padding: 5px 50px;
+    border: 2px solid white;
+    margin: auto;
+    /* margin-top: 250px; */
+    font-weight: 600;
+    color: #2F3161;
+    /* font-size: 15px; */
+}
+.title-filosofi {
+    color: #2F3161;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.logo-bem {
+    width: 300px;
+    margin: auto;
+}
+
+.logo-bem img {
+    height: 350px;
+}
+
+.filosofi-bentuk {
+    text-align: center;
+    font-size: 24px;
+    color: #2F3161;
+}
+.kontak {
+    width: 100%;
+    margin: auto;
+}
+@media(min-width: 768px) {
+    .kontak{
+        width: 85%;
         margin: auto;
-        margin-bottom: 30px;
     }
-    .title-filosofi{
-        color: #2F3161;
-        font-weight: bolder;
-        text-align: center;
-    }
-    
-    .logo-bem{
-        width: 300px;
-        margin: auto;
-    }
-    
-    .logo-bem img{
-        height: 350px;
-    }
-    
-    .filosofi-bentuk{
-        text-align: center;
-        font-size: 24px;
-        color: #2F3161;
-    }
-    
+}

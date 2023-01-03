@@ -128,7 +128,7 @@ footer .lokasi iframe {
     /* margin-top: 250px; */
     font-weight: 600;
     color: #2F3161;
-    font-size: 15px;
+    /* font-size: 15px; */
 }
 .title-divisi {
     background: rgba(255, 255, 255, 0.4);
@@ -212,7 +212,7 @@ footer .lokasi iframe {
         width: 92px;
         height: 92px;
     }
-.title-divisi {
+    .title-divisi {
     background: rgba(255, 255, 255, 0.4);
     box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
     backdrop-filter: blur(3px);
@@ -226,7 +226,21 @@ footer .lokasi iframe {
     font-weight: 600;
     color: #2F3161;
     font-size: 35px;
-}
+    }
+    .title {
+        background: rgba(255, 255, 255, 0.4);
+        box-shadow: 0 0px 32px 0 rgba(31, 38, 135, 0.37);
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+        border-radius: 50px;
+        width: fit-content;
+        padding: 5px 40px;
+        border: 2px solid white;
+        margin: auto;
+        /* margin-top: 250px; */
+        font-weight: 600;
+        color: #2F3161;
+    }
 }
 
 

@@ -176,13 +176,12 @@ footer .lokasi iframe {
     -webkit-backdrop-filter: blur(3px);
     border-radius: 50px;
     width: fit-content;
-    padding: 5px 50px;
+    padding: 5px 40px;
     border: 2px solid white;
     margin: auto;
     /* margin-top: 250px; */
-    font-weight: 700;
+    font-weight: 600;
     color: #2F3161;
-    font-size: 25px;
 }
 #kepengurusan .container{
     padding: 15% 0;

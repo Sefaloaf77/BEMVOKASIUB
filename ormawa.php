@@ -30,8 +30,9 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>1. HMPS Teknologi Informasi</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <h2>1. HMPS TI</h2>
+                                <p>Himpunan Mahasiswa Program Studi Teknologi Informasi Fakultas Vokasi UB yang mencakup 4 bidang minat yaitu Teknologi Informasi dan Komputer, Sistem Informasi, Film dan Televisi, dan Bisnis Digital & E-Commerce</p>
+                                <a href="https://www.instagram.com/hmpsti.vokasiub/" class="text-primary" target="_blank" style="text-decoration: none;">@hmpsti.vokasiub</a>
                             </div>
                         </div>
                     </div>
@@ -43,8 +44,9 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>2. HMPS Keuangan dan Perbankan</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <h2>2. HMPS Keubank</h2>
+                                <p>Himpunan Mahasiswa Program Studi Keuangan dan Perbankan Fakultas Vokasi UB yang mencakup 3 bidang minat yaitu Perbankan, Perpajakan, Akuntansi Terapan</p>
+                                <a href="https://www.instagram.com/hmpskeubank.ub/" class="text-primary" target="_blank" style="text-decoration: none;">@hmpskeubank.ub</a>
                             </div>
                         </div>
                     </div>
@@ -56,8 +58,9 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>3. HMPS Manajemen Perhotelan</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <h2>3. HMPSA</h2>
+                                <p>Himpunan Mahasiswa Manajemen Perhotelan Fakultas Vokasi UB</p>
+                                <a href="https://www.instagram.com/hmsa_ub/" class="text-primary" target="_blank" style="text-decoration: none;">@hmsa_ub</a>
                             </div>
                         </div>
                     </div>
@@ -69,8 +72,9 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>4. HMPS Administrasi Bisnis</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <h2>4. HMPS Adbis</h2>
+                                <p>Himpunan Mahasiswa Program Studi Administrasi Bisnis Fakultas Vokasi UB yang mencakup 3 bidang minat yaitu Sekretaris, Public Relation, Perpustakaan & Arsip, Business English, dan Administrasi Hukum</p>
+                                <a href="https://www.instagram.com/hmpsadbisbrawijaya/" class="text-primary" target="_blank" style="text-decoration: none;">@hmpsadbisbrawijaya</a>
                             </div>
                         </div>
                     </div>
@@ -82,8 +86,9 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>5. HMPS Desain Grafis</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <h2>5. HMD</h2>
+                                <p>Himpunan Mahasiswa Program Studi Desain Grafis Fakultas Vokasi UB yang mencakup 2 bidang minat yaitu Desain Interior dan Desain Komunikasi Visual</p>
+                                <a href="https://www.instagram.com/desainub/" class="text-primary" target="_blank" style="text-decoration: none;">@desainub</a>
                             </div>
                         </div>
                     </div>
@@ -107,7 +112,7 @@
                         <div class="col-9">
                             <div class="teks">
                                 <h2>1. KIVA</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <p>Komunitas Kerohanian Islam Fakultas Vokasi Universitas Brawijaya</p>
                             </div>
                         </div>
                     </div>
@@ -120,7 +125,20 @@
                         <div class="col-9">
                             <div class="teks">
                                 <h2>2. KMK</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <p>Keluarga Mahasiswa Katholik St. Piamarta Fakultas Vokasi Universitas Brawijaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 mt-5">
+                    <div class="row d-flex justify-content-center">
+                        <div class="col-2 d-flex align-items-center">
+                            <img src="assets/img/pmk.jpg" alt="logo bem" class="img-fluid my-auto mx-auto">
+                        </div>
+                        <div class="col-9">
+                            <div class="teks">
+                                <h2>3. PMK</h2>
+                                <p>Persekutuan Mahasiswa Kristen Fakultas Vokasi Universitas Brawijaya</p>
                             </div>
                         </div>
                     </div>
@@ -132,8 +150,8 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>3. Irestech</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <h2>4. Irestech</h2>
+                                <p>Innovation Research Technology Fakultas Vokasi Universitas Brawijaya</p>
                             </div>
                         </div>
                     </div>
@@ -145,7 +163,7 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>4. Homeband Vokasi UB</h2>
+                                <h2>5. Homeband Vokasi UB</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
                             </div>
                         </div>
@@ -158,7 +176,7 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>5. Penalaran</h2>
+                                <h2>6. Penalaran</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
                             </div>
                         </div>
@@ -171,7 +189,7 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>6. Basket Vokasi</h2>
+                                <h2>7. Basket Vokasi</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
                             </div>
                         </div>
@@ -184,7 +202,7 @@
                         </div>
                         <div class="col-9">
                             <div class="teks">
-                                <h2>7. Voxsa</h2>
+                                <h2>8. Voxsa</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
                             </div>
                         </div>

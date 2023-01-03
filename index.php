@@ -203,7 +203,13 @@
                                 <img src="assets/img/vition.webp" loading="lazy">
                             </li>
                             <li class="splide__slide">
-                                <img src="assets/img/pops.png" loading="lazy">
+                                <img src="assets/img/pops.webp" loading="lazy">
+                            </li>
+                            <li class="splide__slide">
+                                <img src="assets/img/farewell.webp" loading="lazy">
+                            </li>
+                            <li class="splide__slide">
+                                <img src="assets/img/opsi.jpg" loading="lazy">
                             </li>
                         </ul>
                     </div>
@@ -220,7 +226,7 @@
                 <div class="row counter-up">
                     <div class="mt-5 mt-md-0 col-md-3 col-6 text-center justify-content-center">
                         <div class="circle mx-auto my-auto counter">
-                            165
+                            68
                         </div>
                         <div class="icon mx-auto">
                             <i class="fa-solid fa-business-time"></i>
@@ -253,7 +259,7 @@
                     </div>
                     <div class="mt-5 mt-md-0 col-md-3 col-6 text-center justify-content-center">
                         <div class="circle mx-auto my-auto counter">
-                            187
+                            195
                         </div>
                         <div class="icon mx-auto">
                             <i class="fa-solid fa-users"></i>
@@ -324,11 +330,14 @@
     </script>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            var main = new Splide('#main-carousel', {
+            var mains = new Splide('#main-carousel', {
                 type: 'fade',
                 rewind: true,
-                pagination: false,
+                perPage: 1,
+                heightRatio: 0.5,
+                pagination: true,
                 arrows: false,
+                cover: true,
             });
 
 
@@ -340,6 +349,11 @@
                 rewind: true,
                 pagination: false,
                 isNavigation: true,
+                cover: true,
+                dragMinThreshold: {
+                    mouse: 4,
+                    touch: 10,
+                },
                 breakpoints: {
                     600: {
                         fixedWidth: 60,
@@ -347,15 +361,15 @@
                     },
                 },
             });
-            main.sync(thumbnails);
-            main.mount();
+            mains.sync(thumbnails);
+            mains.mount();
             thumbnails.mount();
         });
     </script>
 
     <!-- counter -->
     <script src="assets/js/jquery.counterup.min.js"></script>
-    <!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script> -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
     <script>
         $(document).ready(function() {
             $(".counter").counterUp({

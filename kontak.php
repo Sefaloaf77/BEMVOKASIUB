@@ -6,235 +6,302 @@
 <body>
     <?php include('./partials/navbar.php') ?>
     <section class="top">
-<img src="assets/img/bg-top.svg" alt="">
+        <img class="img-fluid" src="assets/img/bg-top.svg" alt="">
     </section>
     <!-- isi -->
+    <section class="kontak">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h1 class="title">Hubungi Kami Disini</h1>
+            </div>
 
-    <div class="container">
-        <div class="filosofi-logo">
-            <h1 class="title-filosofi">Hubungi Kami Disini</h1>
+            <div class="team">
+                <div class="row d-flex justify-content-center justify-content-md-between">
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/6281293429144" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Rectangle220.png">
+                        </a>
+
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Media Partner</h2>
+                            <div class="team_icon mt-4">
+                                <a target="_blank" href="https://wa.me/6281293429144" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="http://bit.ly/KuisionerAdvokesmaCareVokasiUB2022" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Rectangle 321.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Advokesma Care</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="http://bit.ly/KuisionerAdvokesmaCareVokasiUB2022" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Rectangle225.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Pengambilan<br>Sertifikat PKKMB</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div> -->
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwQMKQpkJdZscbnWsGSqMkZmWtbDRhXxPSBlLLXNMZRRmVPmcfFxCsBwfBhmTSCnpWDPsnC" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Rectangle222.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Email</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwQMKQpkJdZscbnWsGSqMkZmWtbDRhXxPSBlLLXNMZRRmVPmcfFxCsBwfBhmTSCnpWDPsnC" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://www.instagram.com/bemvokasiub/" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Rectangle223.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Instagram</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://www.instagram.com/bemvokasiub/" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://open.spotify.com/show/30r6Cn9c0lR86parpSkh1o" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Rectangle224.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Spotify</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://open.spotify.com/show/30r6Cn9c0lR86parpSkh1o" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://twitter.com/bemvokasiub" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Rectangle221.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Twitter</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://twitter.com/bemvokasiub" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://www.youtube.com/@BEMVokasiUB" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Rectangle226.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Youtube</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://www.youtube.com/@BEMVokasiUB" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://www.linkedin.com/company/bem-fakultas-vokasi-ub/" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/linkedin.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Linkedin</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://www.linkedin.com/company/bem-fakultas-vokasi-ub/" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/628557260776" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component 1 (2).png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>BJMO</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/628557260776" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/6285233440764" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component31.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Biro Keuangan</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/6285233440764" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/6281556867562" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component32.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Biro Administrasi</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/6281556867562" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/6282249177442" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component33.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Biro Puskominfo</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/6282249177442" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/62895340086505" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component30.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Kementerian<br>PSDM</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/62895340086505" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/6285158377946" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component20.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Kementerian<br>PORA</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/6285158377946" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/6285715950057" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component21.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Kementerian<br>SOSMA</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/6285715950057" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/62895366895340" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component22.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Kementerian<br>ADVOKESMA</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/62895366895340" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/6285718277275" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component23.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Kementerian<br>Perhubungan</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/6285718277275" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 col-sm-5 col-5 mb-5 profile">
+                        <a target="_blank" href="https://wa.me/6281901041971" class="text-decoration-none">
+                            <img class="img-fluid" src="assets/img/Component24.png">
+                        </a>
+                        <div class="info">
+                            <h2 class="name">Narahubung<br>Kementerian<br>KASTRAT</h2>
+                            <div class="team_icon">
+                                <a target="_blank" href="https://wa.me/6281901041971" class="text-decoration-none">
+                                    <i class="fa-sharp fa-solid fa-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 
+            <div class="team mb-5">
+
+                <div class="team_box">
+
+                </div>
+            </div> -->
+
+
         </div>
-
-
-    <div class="team">
-            
-        <div class="team_box">
-            <div class="profile">
-                <img src="assets/img/Rectangle220.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Media Partner</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Rectangle 321.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Advokesma Care</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Rectangle225.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Pengambilan<br>Sertifikat PKKMB</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="team">
-        <div class="team_box">
-            <div class="profile">
-                <img src="assets/img/Rectangle222.png">
-                <div class="info">
-                    <h2 class="name">Email</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Rectangle223.png">
-                <div class="info">
-                    <h2 class="name">Instagram</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Rectangle224.png">
-                <div class="info">
-                    <h2 class="name">Spotify</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="team">
-        <div class="team_box">
-            <div class="profile">
-                <img src="assets/img/Rectangle221.png">
-                <div class="info">
-                    <h2 class="name">Twitter</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Rectangle226.png">
-                <div class="info">
-                    <h2 class="name">Youtube</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Component 1 (2).png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>BJMO</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="team">
-        <div class="team_box">
-            <div class="profile">
-                <img src="assets/img/Component31.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Biro Keuangan</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Component32.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Biro Administrasi</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Component33.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Biro Puskominfo</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="team">
-        <div class="team_box">
-            <div class="profile">
-                <img src="assets/img/Component30.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Kementerian<br>PSDM</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Component20.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Kementerian<br>PORA</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Component21.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Kementerian<br>SOSMA</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="team">
-        <div class="team_box">
-            <div class="profile">
-                <img src="assets/img/Component22.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Kementerian<br>ADVOKESMA</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Component23.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Kementerian<br>Perhubungan</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="profile">
-                <img src="assets/img/Component24.png">
-                <div class="info">
-                    <h2 class="name">Narahubung<br>Kementerian<br>KASTRAT</h2>
-                    <div class="team_icon">
-                        <i class="fa-sharp fa-solid fa-link"></i>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    </div>
-<h1></h1>
-
-
-
-
-
-
-
-
+    </section>
 
     <!-- isi -->
+
+
     <section class="bottom">
-            <img src="assets/img/bg-bottom.svg">
+        <img class="img-fluid" src="assets/img/bg-bottom.svg">
     </section>
     <?php include('./partials/footer.php') ?>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
