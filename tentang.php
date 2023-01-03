@@ -75,7 +75,7 @@
     <section class="filosofi-warna mt-5 mb-md-5">
       <div class="container">
         <h1 class="text-center filosofi-bentuk fw-bold mb-5">-Filosofi Warna-</h1>
-        <div class="row filosofi-warna d-flex align-content-center">
+        <div class="row filosofi-warna d-flex justify-content-center">
           <div class="d-flex col-md-6">
             <div class="lingkaran-warna" style="background-color: #2F3161;"></div>
             <p class="desc-warna ms-2">Kuat & bisa diandalkan</p>
@@ -85,7 +85,7 @@
             <p class="desc-warna ms-2">Kejayaan & capaian besar</p>
           </div>
         </div>
-        <div class="row filosofi-warna d-flex align-content-center">
+        <div class="row filosofi-warna d-flex justify-content-center">
           <div class="d-flex col-md-6">
             <div class="lingkaran-warna" style="background-color: #66C2ED;"></div>
             <p class="desc-warna ms-2">Energi baru yang menyegarkan</p>
@@ -175,7 +175,7 @@
         </div>
         <div class="text-center mt-4">
           <h3><strong>Yuk kepoin kita!</strong></h3>
-          <a href="kepengurusan" class="btn btn-blue mt-3">Struktur Organisasi</a>
+          <a href="kepengurusan.php" class="btn btn-blue mt-3">Struktur Organisasi</a>
         </div>
       </div>
     </section>

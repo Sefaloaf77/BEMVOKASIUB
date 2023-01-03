@@ -18,29 +18,29 @@
                         Kabinet
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="kepengurusan">Kepengurusan</a></li>
-                        <li><a class="dropdown-item" href="presiden">Presiden dan Wakil</a></li>
-                        <li><a class="dropdown-item" href="menko">Menteri Koordinator</a></li>
-                        <li><a class="dropdown-item" href="bjmo">BJMO</a></li>
-                        <li><a class="dropdown-item" href="admin">Biro Administrasi</a></li>
-                        <li><a class="dropdown-item" href="keuangan">Biro Keuangan</a></li>
-                        <li><a class="dropdown-item" href="puskominfo">Biro PUSKOMINFO</a></li>
-                        <li><a class="dropdown-item" href="psdm">Kementerian PSDM</a></li>
-                        <li><a class="dropdown-item" href="pora">Kementerian PORA</a></li>
-                        <li><a class="dropdown-item" href="advokesma">Kementerian ADVOKESMA</a></li>
-                        <li><a class="dropdown-item" href="sosma">Kementerian SOSMA</a></li>
-                        <li><a class="dropdown-item" href="perhubungan">Kementerian Perhubungan</a></li>
-                        <li><a class="dropdown-item" href="kastrat">Kementerian KASTRAT</a></li>
+                        <li><a class="dropdown-item" href="kepengurusan.php">Kepengurusan</a></li>
+                        <li><a class="dropdown-item" href="presiden.php">Presiden dan Wakil</a></li>
+                        <li><a class="dropdown-item" href="menko.php">Menteri Koordinator</a></li>
+                        <li><a class="dropdown-item" href="bjmo.php">BJMO</a></li>
+                        <li><a class="dropdown-item" href="admin.php">Biro Administrasi</a></li>
+                        <li><a class="dropdown-item" href="keuangan.php">Biro Keuangan</a></li>
+                        <li><a class="dropdown-item" href="puskominfo.php">Biro PUSKOMINFO</a></li>
+                        <li><a class="dropdown-item" href="psdm.php">Kementerian PSDM</a></li>
+                        <li><a class="dropdown-item" href="pora.php">Kementerian PORA</a></li>
+                        <li><a class="dropdown-item" href="advokesma.php">Kementerian ADVOKESMA</a></li>
+                        <li><a class="dropdown-item" href="sosma.php">Kementerian SOSMA</a></li>
+                        <li><a class="dropdown-item" href="perhubungan.php">Kementerian Perhubungan</a></li>
+                        <li><a class="dropdown-item" href="kastrat.php">Kementerian KASTRAT</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link competition" href="tentang">Tentang</a>
+                    <a class="nav-link competition" href="tentang.php">Tentang</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link merch" href="kontak">Kontak</a>
+                    <a class="nav-link merch" href="kontak.php">Kontak</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link merch" href="ormawa">ORMAWA</a>
+                    <a class="nav-link merch" href="ormawa.php">ORMAWA</a>
                 </li>
             </ul>
         </div>

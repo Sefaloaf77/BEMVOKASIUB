@@ -11,10 +11,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <!-- counter -->
-<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+
+<!-- counter -->
 
 <body>
     <?php include('./partials/navbar.php') ?>
@@ -55,8 +57,8 @@
                 <div class="col-md-5 col-lg-5 col-12 text-center" data-aos="zoom-out-right">
                     <h4>Yuk cari tahu!</h4>
                     <a href="tentang.php" class="btn btn-blue d-block my-3">Filosofi Logo</a>
-                    <a href="kabinet.php" class="btn btn-blue d-block my-3">Struktur Kabinet</a>
-                    <a href="#" class="btn btn-blue d-block my-3">Buku Akhir Tahun</a>
+                    <a href="kepengurusan.php" class="btn btn-blue d-block my-3">Struktur Kabinet</a>
+                    <a href="https://issuu.com/bemvokasiub/docs/vokspedia_vol2" class="btn btn-blue d-block my-3">Buku Akhir Tahun</a>
                 </div>
                 <div class="col-md-6 col-lg-6 col-12 text-center mt-4 mt-md-0 video" data-aos="fade-down-right">
                     <iframe class="video-comprof shadow" src="https://www.youtube.com/embed/up0BW9z0gpI" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -86,7 +88,7 @@
                 </div>
                 <div class=" col-1 partner">
                     <div class="pnc-logo justify-content-center text-center mx-auto">
-                        <img src="assets/img/logo-teko-cafe.svg" class="img-fluid" alt="swandudes">
+                        <img src="assets/img/logo-teko-cafe.svg" class="img-fluid" alt="teko o cafe">
                     </div>
                     <div class="pnc-name mx-auto text-center">
                         Teko'o Cafe
@@ -161,7 +163,7 @@
         <div class="container galeri-area">
             <div class="text-center mb-5">
                 <h1 class="title">Galeri</h1>
-                <h5>Yuk dengarkan cerita kami!</h5>
+                <h5>Yuk lihat cerita kami!</h5>
             </div>
             <div id="main-carousel" class="splide" aria-label="Beautiful Images">
                 <div class="container">
@@ -179,6 +181,17 @@
                             <li class="splide__slide">
                                 <img src="assets/img/comprof.webp" loading="lazy">
                             </li>
+                            <li class="splide__slide">
+                                <img src="assets/img/vition.webp" loading="lazy">
+                            </li>
+                            <li class="splide__slide">
+                                <img src="assets/img/pops.webp" loading="lazy">
+                            </li>
+                            <li class="splide__slide">
+                                <img src="assets/img/farewell.webp" loading="lazy">
+                            </li>
+                            <li class="splide__slide">
+                                <img src="assets/img/opsi.jpg" loading="lazy">
                         </ul>
                     </div>
                 </div>
@@ -223,9 +236,9 @@
     <section class="recap">
         <div class="bg-footer">
             <div class="container recap-area">
-                <div class="row counter-up">
+                <div class="row counters-up">
                     <div class="mt-5 mt-md-0 col-md-3 col-6 text-center justify-content-center">
-                        <div class="circle mx-auto my-auto counter">
+                        <div class="circle mx-auto my-auto counters">
                             68
                         </div>
                         <div class="icon mx-auto">
@@ -236,7 +249,7 @@
                         </div>
                     </div>
                     <div class="mt-5 mt-md-0 col-md-3 col-6 text-center justify-content-center">
-                        <div class="circle mx-auto my-auto counter">
+                        <div class="circle mx-auto my-auto counters">
                             9
                         </div>
                         <div class="icon mx-auto">
@@ -247,7 +260,7 @@
                         </div>
                     </div>
                     <div class="mt-5 mt-md-0 col-md-3 col-6 text-center justify-content-center">
-                        <div class="circle mx-auto my-auto counter">
+                        <div class="circle mx-auto my-auto counters">
                             4
                         </div>
                         <div class="icon mx-auto">
@@ -258,7 +271,7 @@
                         </div>
                     </div>
                     <div class="mt-5 mt-md-0 col-md-3 col-6 text-center justify-content-center">
-                        <div class="circle mx-auto my-auto counter">
+                        <div class="circle mx-auto my-auto counters">
                             195
                         </div>
                         <div class="icon mx-auto">
@@ -371,10 +384,16 @@
     <script src="assets/js/jquery.counterup.min.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
     <script>
-        $(document).ready(function() {
-            $(".counter").counterUp({
+        // $(document).ready(function() {
+        //     $(".counter").counterUp({
+        //         delay: 10,
+        //         time: 1000,
+        //     });
+        // });
+        jQuery(document).ready(function($) {
+            $('.counters').counterUp({
                 delay: 10,
-                time: 1000,
+                time: 1000
             });
         });
     </script>

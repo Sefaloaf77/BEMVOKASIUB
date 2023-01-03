@@ -4,73 +4,73 @@ $kepengurusan = [
         'title1' => 'Presiden',
         'title2' => 'Wakil Presiden',
         'gambar' => 'foto_presi.svg',
-        'link'   => 'presiden'
+        'link'   => 'presiden.php'
     ],
     [
         'title1' => 'Menteri',
         'title2' => 'Koordinator',
         'gambar' => 'menko.svg',
-        'link'   => 'menko'
+        'link'   => 'menko.php'
     ],
     [
         'title1' => '.',
         'title2' => 'BJMO',
         'gambar' => 'bjmo.svg',
-        'link'   => 'bjmo'
+        'link'   => 'bjmo.php'
     ],
     [
         'title1' => 'Biro',
         'title2' => 'Administrasi',
         'gambar' => 'administrasi.svg',
-        'link'   => 'admin'
+        'link'   => 'admin.php'
     ],
     [
         'title1' => 'Biro',
         'title2' => 'Keuangan',
         'gambar' => 'keuangan.svg',
-        'link'   => 'keuangan'
+        'link'   => 'keuangan.php'
     ],
     [
         'title1' => 'Biro',
         'title2' => 'PUSKOMINFO',
         'gambar' => 'puskom.svg',
-        'link'   => 'puskominfo'
+        'link'   => 'puskominfo.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'PSDM',
         'gambar' => 'psdm.svg',
-        'link'   => 'psdm'
+        'link'   => 'psdm.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'PORA',
         'gambar' => 'pora.svg',
-        'link'   => 'pora'
+        'link'   => 'pora.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'ADVOKESMA',
         'gambar' => 'advo.svg',
-        'link'   => 'advokesma'
+        'link'   => 'advokesma.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'SOSMA',
         'gambar' => 'sosma.svg',
-        'link'   => 'sosma'
+        'link'   => 'sosma.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'KASTRAT',
         'gambar' => 'kastrat.svg',
-        'link'   => 'kastrat'
+        'link'   => 'kastrat.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'Perhubungan',
         'gambar' => 'perhub.svg',
-        'link'   => 'perhubungan'
+        'link'   => 'perhubungan.php'
     ],
 ];
 ?>
@@ -147,20 +147,6 @@ $kepengurusan = [
         </div>
     </section>
 
-
-    <!-- staff -->
-    <!-- <section class="staff">
-        <div class="container align-items-center">
-            <div class="text-center">
-                <h1 class="title">Staff</h1>
-            </div>
-            <div class="row text-center justify-content-center">
-                <div class="col-11 nama-staff" data-aos="zoom-in-up">
-                    nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff - nama staff
-                </div>
-            </div>
-        </div>
-    </section> -->
 
     <section class="yuk-kenali my-4">
         <div class="container">

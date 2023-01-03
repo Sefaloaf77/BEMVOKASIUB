@@ -113,6 +113,7 @@
                             <div class="teks">
                                 <h2>1. KIVA</h2>
                                 <p>Komunitas Kerohanian Islam Fakultas Vokasi Universitas Brawijaya</p>
+                                <a href="https://www.instagram.com/kivaalfurqon/" class="text-primary" target="_blank" style="text-decoration: none;">@kivaalfurqon</a>
                             </div>
                         </div>
                     </div>
@@ -126,6 +127,7 @@
                             <div class="teks">
                                 <h2>2. KMK</h2>
                                 <p>Keluarga Mahasiswa Katholik St. Piamarta Fakultas Vokasi Universitas Brawijaya</p>
+                                <a href="https://www.instagram.com/kmkvokasi.ub/" class="text-primary" target="_blank" style="text-decoration: none;">@kmkvokasi.ub</a>
                             </div>
                         </div>
                     </div>
@@ -139,6 +141,7 @@
                             <div class="teks">
                                 <h2>3. PMK</h2>
                                 <p>Persekutuan Mahasiswa Kristen Fakultas Vokasi Universitas Brawijaya</p>
+                                <a href="https://www.instagram.com/pmkvokasi/" class="text-primary" target="_blank" style="text-decoration: none;">@pmkvokasi</a>
                             </div>
                         </div>
                     </div>
@@ -152,6 +155,7 @@
                             <div class="teks">
                                 <h2>4. Irestech</h2>
                                 <p>Innovation Research Technology Fakultas Vokasi Universitas Brawijaya</p>
+                                <a href="https://www.instagram.com/irestech.ub/" class="text-primary" target="_blank" style="text-decoration: none;">@irestech.ub</a>
                             </div>
                         </div>
                     </div>
@@ -164,7 +168,8 @@
                         <div class="col-9">
                             <div class="teks">
                                 <h2>5. Homeband Vokasi UB</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <p>Lembaga Mahasiswa Fakultas Vokasi Universitas Brawijaya untuk mengembangkan keterampilan dan minat dalam bermusik</p>
+                                <a href="https://www.instagram.com/hb_vokasioner/" class="text-primary" target="_blank" style="text-decoration: none;">@hb_vokasioner</a>
                             </div>
                         </div>
                     </div>
@@ -177,7 +182,8 @@
                         <div class="col-9">
                             <div class="teks">
                                 <h2>6. Penalaran</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <p>Lembaga Mahasiswa Fakultas Vokasi Universitas Brawijaya untuk mengembangkan keterampilan dan minat dalam penalaran</p>
+                                <a href="https://www.instagram.com/penalaran_vokasiub/" class="text-primary" target="_blank" style="text-decoration: none;">@penalaran_vokasiub</a>
                             </div>
                         </div>
                     </div>
@@ -190,7 +196,8 @@
                         <div class="col-9">
                             <div class="teks">
                                 <h2>7. Basket Vokasi</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <p>Lembaga Mahasiswa Fakultas Vokasi Universitas Brawijaya untuk mengembangkan keterampilan dan minat dalam bermain bola basket</p>
+                                <a href="https://www.instagram.com/vokasibasketball/" class="text-primary" target="_blank" style="text-decoration: none;">@vokasibasketball</a>
                             </div>
                         </div>
                     </div>
@@ -203,7 +210,8 @@
                         <div class="col-9">
                             <div class="teks">
                                 <h2>8. Voxsa</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium accusamus doloribus dolorum nostrum vitae, aut obcaecati est autem asperiores at quaerat inventore exercitationem ad alias facere. Perferendis corporis commodi in et libero dolorem nemo harum quae, nam molestiae suscipit impedit repudiandae vitae maxime. Ea atque error, odio aut neque quas?</p>
+                                <p>Lembaga Mahasiswa Fakultas Vokasi Universitas Brawijaya untuk mengembangkan keterampilan dan minat dalam bermain futsal</p>
+                                <a href="https://www.instagram.com/futsal.voxsa/" class="text-primary" target="_blank" style="text-decoration: none;">@futsal.voxsa</a>
                             </div>
                         </div>
                     </div>

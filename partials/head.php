@@ -12,17 +12,18 @@
     <!-- font awesome icon -->
     <script src="https://kit.fontawesome.com/244c1245b5.js" crossorigin="anonymous"></script>
 
+
     <!-- splide -->
     <script src="../node_modules/@splidejs/splide/dist/js/splide.min.js"></script>
     <link rel="stylesheet" href="../node_modules/@splidejs/splide/dist/css/splide-core.min.css">
     <link rel="stylesheet" href="../node_modules/@splidejs/splide/dist/css/splide.min.css">
     <link rel="stylesheet" href="../node_modules/@splidejs/splide/dist/css/themes/splide-default.min.css">
-    <script>
+    <!-- <script>
         document.addEventListener('DOMContentLoaded', function() {
             var splide = new Splide('.splide');
             splide.mount();
         });
-    </script>
+    </script> -->
 
     <!-- aos animation -->
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
