@@ -3,73 +3,73 @@ $kepengurusan = [
     [
         'title1' => 'Presiden',
         'title2' => 'Wakil Presiden',
-        'gambar' => 'foto_presi.svg',
+        'gambar' => 'foto_presi.webp',
         'link'   => 'presiden.php'
     ],
     [
         'title1' => 'Menteri',
         'title2' => 'Koordinator',
-        'gambar' => 'menko.svg',
+        'gambar' => 'menko.webp',
         'link'   => 'menko.php'
     ],
     [
         'title1' => '.',
         'title2' => 'BJMO',
-        'gambar' => 'bjmo.svg',
+        'gambar' => 'bjmo.webp',
         'link'   => 'bjmo.php'
     ],
     [
         'title1' => 'Biro',
         'title2' => 'Administrasi',
-        'gambar' => 'administrasi.svg',
+        'gambar' => 'administrasi.webp',
         'link'   => 'admin.php'
     ],
     [
         'title1' => 'Biro',
         'title2' => 'Keuangan',
-        'gambar' => 'keuangan.svg',
+        'gambar' => 'keuangan.webp',
         'link'   => 'keuangan.php'
     ],
     [
         'title1' => 'Biro',
         'title2' => 'PUSKOMINFO',
-        'gambar' => 'puskom.svg',
+        'gambar' => 'puskom.webp',
         'link'   => 'puskominfo.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'PSDM',
-        'gambar' => 'psdm.svg',
+        'gambar' => 'psdm.webp',
         'link'   => 'psdm.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'PORA',
-        'gambar' => 'pora.svg',
+        'gambar' => 'pora.webp',
         'link'   => 'pora.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'ADVOKESMA',
-        'gambar' => 'advo.svg',
+        'gambar' => 'advo.webp',
         'link'   => 'advokesma.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'SOSMA',
-        'gambar' => 'sosma.svg',
+        'gambar' => 'sosma.webp',
         'link'   => 'sosma.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'KASTRAT',
-        'gambar' => 'kastrat.svg',
+        'gambar' => 'kastrat.webp',
         'link'   => 'kastrat.php'
     ],
     [
         'title1' => 'Kementerian',
         'title2' => 'Perhubungan',
-        'gambar' => 'perhub.svg',
+        'gambar' => 'perhub.webp',
         'link'   => 'perhubungan.php'
     ],
 ];

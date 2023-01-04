@@ -12,7 +12,7 @@
     <!-- ormawa -->
     <section class="top">
         <div class="bg-ormawa text-center justify-content-center align-items-center d-flex">
-            <img src="assets/img/hero-ormawa.svg" loading="lazy" alt="circle" class="img-fluid hero-ormawa">
+            <img src="assets/img/hero-ormawa.svg" loading="lazy" alt="circle" class="img-fluid hero-ormawa p-5">
         </div>
     </section>
 
@@ -32,7 +32,7 @@
                             <div class="teks">
                                 <h2>1. HMPS TI</h2>
                                 <p>Himpunan Mahasiswa Program Studi Teknologi Informasi Fakultas Vokasi UB yang mencakup 4 bidang minat yaitu Teknologi Informasi dan Komputer, Sistem Informasi, Film dan Televisi, dan Bisnis Digital & E-Commerce</p>
-                                <a href="https://www.instagram.com/hmpsti.vokasiub/" class="text-primary" target="_blank" style="text-decoration: none;">@hmpsti.vokasiub</a>
+                                <a href="https://www.instagram.com/hmpsti.vokasiub/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@hmpsti.vokasiub</a>
                             </div>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                             <div class="teks">
                                 <h2>2. HMPS Keubank</h2>
                                 <p>Himpunan Mahasiswa Program Studi Keuangan dan Perbankan Fakultas Vokasi UB yang mencakup 3 bidang minat yaitu Perbankan, Perpajakan, Akuntansi Terapan</p>
-                                <a href="https://www.instagram.com/hmpskeubank.ub/" class="text-primary" target="_blank" style="text-decoration: none;">@hmpskeubank.ub</a>
+                                <a href="https://www.instagram.com/hmpskeubank.ub/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@hmpskeubank.ub</a>
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                             <div class="teks">
                                 <h2>3. HMPSA</h2>
                                 <p>Himpunan Mahasiswa Manajemen Perhotelan Fakultas Vokasi UB</p>
-                                <a href="https://www.instagram.com/hmsa_ub/" class="text-primary" target="_blank" style="text-decoration: none;">@hmsa_ub</a>
+                                <a href="https://www.instagram.com/hmsa_ub/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@hmsa_ub</a>
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                             <div class="teks">
                                 <h2>4. HMPS Adbis</h2>
                                 <p>Himpunan Mahasiswa Program Studi Administrasi Bisnis Fakultas Vokasi UB yang mencakup 3 bidang minat yaitu Sekretaris, Public Relation, Perpustakaan & Arsip, Business English, dan Administrasi Hukum</p>
-                                <a href="https://www.instagram.com/hmpsadbisbrawijaya/" class="text-primary" target="_blank" style="text-decoration: none;">@hmpsadbisbrawijaya</a>
+                                <a href="https://www.instagram.com/hmpsadbisbrawijaya/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@hmpsadbisbrawijaya</a>
                             </div>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                             <div class="teks">
                                 <h2>5. HMD</h2>
                                 <p>Himpunan Mahasiswa Program Studi Desain Grafis Fakultas Vokasi UB yang mencakup 2 bidang minat yaitu Desain Interior dan Desain Komunikasi Visual</p>
-                                <a href="https://www.instagram.com/desainub/" class="text-primary" target="_blank" style="text-decoration: none;">@desainub</a>
+                                <a href="https://www.instagram.com/desainub/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@desainub</a>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                             <div class="teks">
                                 <h2>1. KIVA</h2>
                                 <p>Komunitas Kerohanian Islam Fakultas Vokasi Universitas Brawijaya</p>
-                                <a href="https://www.instagram.com/kivaalfurqon/" class="text-primary" target="_blank" style="text-decoration: none;">@kivaalfurqon</a>
+                                <a href="https://www.instagram.com/kivaalfurqon/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@kivaalfurqon</a>
                             </div>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
                             <div class="teks">
                                 <h2>2. KMK</h2>
                                 <p>Keluarga Mahasiswa Katholik St. Piamarta Fakultas Vokasi Universitas Brawijaya</p>
-                                <a href="https://www.instagram.com/kmkvokasi.ub/" class="text-primary" target="_blank" style="text-decoration: none;">@kmkvokasi.ub</a>
+                                <a href="https://www.instagram.com/kmkvokasi.ub/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@kmkvokasi.ub</a>
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
                             <div class="teks">
                                 <h2>3. PMK</h2>
                                 <p>Persekutuan Mahasiswa Kristen Fakultas Vokasi Universitas Brawijaya</p>
-                                <a href="https://www.instagram.com/pmkvokasi/" class="text-primary" target="_blank" style="text-decoration: none;">@pmkvokasi</a>
+                                <a href="https://www.instagram.com/pmkvokasi/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@pmkvokasi</a>
                             </div>
                         </div>
                     </div>
@@ -155,7 +155,7 @@
                             <div class="teks">
                                 <h2>4. Irestech</h2>
                                 <p>Innovation Research Technology Fakultas Vokasi Universitas Brawijaya</p>
-                                <a href="https://www.instagram.com/irestech.ub/" class="text-primary" target="_blank" style="text-decoration: none;">@irestech.ub</a>
+                                <a href="https://www.instagram.com/irestech.ub/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@irestech.ub</a>
                             </div>
                         </div>
                     </div>
@@ -169,7 +169,7 @@
                             <div class="teks">
                                 <h2>5. Homeband Vokasi UB</h2>
                                 <p>Lembaga Mahasiswa Fakultas Vokasi Universitas Brawijaya untuk mengembangkan keterampilan dan minat dalam bermusik</p>
-                                <a href="https://www.instagram.com/hb_vokasioner/" class="text-primary" target="_blank" style="text-decoration: none;">@hb_vokasioner</a>
+                                <a href="https://www.instagram.com/hb_vokasioner/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@hb_vokasioner</a>
                             </div>
                         </div>
                     </div>
@@ -183,7 +183,7 @@
                             <div class="teks">
                                 <h2>6. Penalaran</h2>
                                 <p>Lembaga Mahasiswa Fakultas Vokasi Universitas Brawijaya untuk mengembangkan keterampilan dan minat dalam penalaran</p>
-                                <a href="https://www.instagram.com/penalaran_vokasiub/" class="text-primary" target="_blank" style="text-decoration: none;">@penalaran_vokasiub</a>
+                                <a href="https://www.instagram.com/penalaran_vokasiub/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@penalaran_vokasiub</a>
                             </div>
                         </div>
                     </div>
@@ -197,7 +197,7 @@
                             <div class="teks">
                                 <h2>7. Basket Vokasi</h2>
                                 <p>Lembaga Mahasiswa Fakultas Vokasi Universitas Brawijaya untuk mengembangkan keterampilan dan minat dalam bermain bola basket</p>
-                                <a href="https://www.instagram.com/vokasibasketball/" class="text-primary" target="_blank" style="text-decoration: none;">@vokasibasketball</a>
+                                <a href="https://www.instagram.com/vokasibasketball/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@vokasibasketball</a>
                             </div>
                         </div>
                     </div>
@@ -211,7 +211,7 @@
                             <div class="teks">
                                 <h2>8. Voxsa</h2>
                                 <p>Lembaga Mahasiswa Fakultas Vokasi Universitas Brawijaya untuk mengembangkan keterampilan dan minat dalam bermain futsal</p>
-                                <a href="https://www.instagram.com/futsal.voxsa/" class="text-primary" target="_blank" style="text-decoration: none;">@futsal.voxsa</a>
+                                <a href="https://www.instagram.com/futsal.voxsa/" class="text-primary" target="_blank" style="text-decoration: none;"><i class="fa-brands fa-instagram me-2"></i>@futsal.voxsa</a>
                             </div>
                         </div>
                     </div>
